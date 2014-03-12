@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!--■■■■■①次の行を直す■■■■■-->
+<title>鯖江市ゴミチェッカー</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
+
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css" />
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js"></script>
+
+<script type="text/javascript">
+
+<!--■■■■■このhtmlと同フォルダにフォルダ「xml」を作成し、その中に元データとなるgomi.xmlを格納してください■■■■■-->
+<!--■■■■■要素→<gomi>■■■■■-->
+<!--■■■■■<gomi>の子要素→<gyou>：○行、<name>：対象となるごみの名称、<keyword>：検索文字列、<kubun>：可燃・不燃等の区分、<zyouken>：ごみを出すときの注意点等■■■■■-->
+
+$(window).load(function(){
+	myparseXml()
+});
+
+function myparseXml(xml){
+	scrollTo(0,0);
+	$.ajax({
+		url: "xml/gomi.xml",
+		type: "GET",
+		dataType: "xml",
+		error: function(){alert("動作検証中：\n動作確認済(推奨ブラウザ)：Safari,FireFox,IE8,Google Chrome");},
+		success: function(xml){parseXml(xml);}
+	});
+}
+
+function parseXml(xml){
+	$('#myList li').remove();
+	$('#myContents div').remove();
+	var myList = "";
+	var myContents = "";
+	var mygomi = $("gomi", xml);
+	var i;
+	var mygyou = $('input[name=mygyou_sel]:checked').val();
+	for (i = 0; i < mygomi.length; i++){
+		if(mygyou == "全て"){
+		myList += "<li data-filtertext=" + $(mygomi[i]).find("keyword").text() + "><a href='#no" + i + "'>" + $(mygomi[i]).find("name").text() + "</a></li>";
+		myContents += "<div data-role='page' id='no" + i + "' data-url='no" + i + "' data-add-back-btn='true'>" +
+					"<div data-role='header' align='center'>" +
+<!--■■■■■②次の行を直す■■■■■-->
+						"<h1>鯖江市ゴミチェッカー</h1>" +
+					"</div>" +
+					"<div data-role='content'>" +
+						"<h3>" +$(mygomi[i]).find("name").text() + "</h3>" +
+						"<h2>" +$(mygomi[i]).find("kubun").text()+ "</h2>" +
+						"<p>" + $(mygomi[i]).find("zyouken").text() + "</p>" +
+					"</div>" +
+<!--■■■■■③次の行を直す■■■■■-->
+					"<div data-role='footer' data-position='fixed' align='center'><font size='2'><a href='http://www.city.sabae.fukui.jp/pageview.html?id=11552' target='_blank'>データシティ鯖江</a></font></div>" +
+				"</div>";
+		}
+		else if(mygyou == $(mygomi[i]).find("gyou").text()){
+		myList += "<li data-filtertext=" + $(mygomi[i]).find("keyword").text() + "><a href='#no" + i + "'>" + $(mygomi[i]).find("name").text() + "</a></li>";
+		myContents += "<div data-role='page' id='no" + i + "' data-url='no" + i + "' data-add-back-btn='true'>" +
+					"<div data-role='header' align='center'>" +
+<!--■■■■■④次の行を直す■■■■■-->
+						"<h1>鯖江市ゴミチェッカー方</h1>" +
+					"</div>" +
+					"<div data-role='content'>" +
+						"<h3>" +$(mygomi[i]).find("name").text() + "</h3>" +
+						"<h2>" +$(mygomi[i]).find("kubun").text()+ "</h2>" +
+						"<p>" + $(mygomi[i]).find("zyouken").text() + "</p>" +
+					"</div>" +
+<!--■■■■■⑤次の行を直す■■■■■-->
+					"<div data-role='footer' data-position='fixed' align='center'><font size='2'><a href='http://www.city.sabae.fukui.jp/pageview.html?id=11552' target='_blank'>データシティ鯖江</a></font></div>" +
+				"</div>";
+		}
+		else{
+		}
+	}
+	$("#myList").append(myList).listview("refresh");
+	$("#home").after(myContents).page();
+	$("input[data-type='search']").val("");
+}
+
+
+
+</script>
+</head>
+<body>
+
+<div data-role="page" id="home">
+
+<div data-role="header" data-position="fixed" align="center">
+<!--■■■■■⑥次の行を直す■■■■■-->
+<h1>鯖江市ゴミチェッカー</h1>
+<div data-role="fieldcontain">
+<fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+	<input type="radio" name="mygyou_sel" id="mygyou_sel0" value="全て" onClick="myparseXml();" checked />
+	<label for="mygyou_sel0">全て</label>
+	<input type="radio" name="mygyou_sel" id="mygyou_sel1" value="あ" onClick="myparseXml();" />
+	<label for="mygyou_sel1">あ行</label>
+	<input type="radio" name="mygyou_sel" id="mygyou_sel2" value="か" onClick="myparseXml();" />
+	<label for="mygyou_sel2">か行</label>
+	<input type="radio" name="mygyou_sel" id="mygyou_sel3" value="さ" onClick="myparseXml();" />
+	<label for="mygyou_sel3">さ行</label>
+	<input type="radio" name="mygyou_sel" id="mygyou_sel4" value="た" onClick="myparseXml();" />
+	<label for="mygyou_sel4">た行</label>
+	<input type="radio" name="mygyou_sel" id="mygyou_sel5" value="な" onClick="myparseXml();" />
+	<label for="mygyou_sel5">な行</label>
+	<input type="radio" name="mygyou_sel" id="mygyou_sel6" value="は" onClick="myparseXml();" />
+	<label for="mygyou_sel6">は行</label>
+	<input type="radio" name="mygyou_sel" id="mygyou_sel7" value="ま" onClick="myparseXml();" />
+	<label for="mygyou_sel7">ま行</label>
+	<input type="radio" name="mygyou_sel" id="mygyou_sel8" value="や" onClick="myparseXml();" />
+	<label for="mygyou_sel8">や行</label>
+	<input type="radio" name="mygyou_sel" id="mygyou_sel9" value="ら" onClick="myparseXml();" />
+	<label for="mygyou_sel9">ら行</label>
+	<input type="radio" name="mygyou_sel" id="mygyou_sel10" value="わ" onClick="myparseXml();" />
+	<label for="mygyou_sel10">わ行</label>
+</fieldset>
+</div>
+</div>
+
+<div data-role="content" id="myListview">
+<ul data-role="listview" id="myList" data-filter="true" data-filter-placeholder="検索ワード...（ひらがな検索対応）"></ul>
+</div>
+
+<!--■■■■■⑦次の行を直す■■■■■-->
+<div data-role="footer" data-position="fixed" align="center"><font size="2"><a href="http://www.city.sabae.fukui.jp/pageview.html?id=11552" target="_blank">データシティ鯖江</a><br>Last updated[2013/XX/XX]</font></div>
+
+</div>
+
+
+</body>
+</html>
+<!--■■■■■越前市ゴミチェッカーを元に作成■■■■■-->
