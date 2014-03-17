@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ja">
 <head>
 <!--■■■■■①次の行を直す■■■■■-->
-<title>鯖江市ゴミチェッカー</title>
+<title>伊賀市ゴミチェッカー</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
@@ -10,6 +10,8 @@
 <link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css" />
 <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script src="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js"></script>
+
+<!-- <link rel="apple-touch-icon" href="image/gomi_icon.png"/>   -->
 
 <script type="text/javascript">
 
@@ -22,6 +24,7 @@ $(window).load(function(){
 });
 
 function myparseXml(xml){
+	$.mobile.defaultPageTransition = 'none';
 	scrollTo(0,0);
 	$.ajax({
 		url: "xml/gomi.xml",
@@ -39,14 +42,15 @@ function parseXml(xml){
 	var myContents = "";
 	var mygomi = $("gomi", xml);
 	var i;
-	var mygyou = $('input[name=mygyou_sel]:checked').val();
+	var mycategory = $('#mysel').val();
 	for (i = 0; i < mygomi.length; i++){
-		if(mygyou == "全て"){
+		if(mycategory == "全て"){
 		myList += "<li data-filtertext=" + $(mygomi[i]).find("keyword").text() + "><a href='#no" + i + "'>" + $(mygomi[i]).find("name").text() + "</a></li>";
 		myContents += "<div data-role='page' id='no" + i + "' data-url='no" + i + "' data-add-back-btn='true'>" +
 					"<div data-role='header' align='center'>" +
-<!--■■■■■②次の行を直す■■■■■-->
-						"<h1>鯖江市ゴミチェッカー</h1>" +
+<!--■■■■■②次の行を直す■■■■■画像が無ければ次で書き換え：<h3>○○ゴミチェッカー</h3>■■■■■-->
+						<!-- "<image src='image/gomichecker.png' width='250' alt='gomichecker'>" + -->
+						"<h3>伊賀市ゴミチェッカー</h3>"+
 					"</div>" +
 					"<div data-role='content'>" +
 						"<h3>" +$(mygomi[i]).find("name").text() + "</h3>" +
@@ -54,23 +58,24 @@ function parseXml(xml){
 						"<p>" + $(mygomi[i]).find("zyouken").text() + "</p>" +
 					"</div>" +
 <!--■■■■■③次の行を直す■■■■■-->
-					"<div data-role='footer' data-position='fixed' align='center'><font size='2'><a href='http://www.city.sabae.fukui.jp/pageview.html?id=11552' target='_blank'>データシティ鯖江</a></font></div>" +
+					"<div data-role='footer' data-position='fixed' align='center'><font size='2'>&copy;チーム for 伊賀市</font></div>" +
 				"</div>";
 		}
-		else if(mygyou == $(mygomi[i]).find("gyou").text()){
+		else if($(mygomi[i]).find("gyou").text().match(mycategory)){
 		myList += "<li data-filtertext=" + $(mygomi[i]).find("keyword").text() + "><a href='#no" + i + "'>" + $(mygomi[i]).find("name").text() + "</a></li>";
 		myContents += "<div data-role='page' id='no" + i + "' data-url='no" + i + "' data-add-back-btn='true'>" +
 					"<div data-role='header' align='center'>" +
-<!--■■■■■④次の行を直す■■■■■-->
-						"<h1>鯖江市ゴミチェッカー方</h1>" +
-					"</div>" +
+<!--■■■■■④次の行を直す■■■■■画像が無ければ次で書き換え：<h3>○○ゴミチェッカー</h3>■■■■■-->
+					<!--	"<image src='image/gomichecker.png' width='250' alt='gomichecker'>" +　-->
+						"<h3>伊賀市ゴミチェッカー</h3>" +
+										"</div>" +
 					"<div data-role='content'>" +
 						"<h3>" +$(mygomi[i]).find("name").text() + "</h3>" +
 						"<h2>" +$(mygomi[i]).find("kubun").text()+ "</h2>" +
 						"<p>" + $(mygomi[i]).find("zyouken").text() + "</p>" +
 					"</div>" +
 <!--■■■■■⑤次の行を直す■■■■■-->
-					"<div data-role='footer' data-position='fixed' align='center'><font size='2'><a href='http://www.city.sabae.fukui.jp/pageview.html?id=11552' target='_blank'>データシティ鯖江</a></font></div>" +
+					"<div data-role='footer' data-position='fixed' align='center'><font size='2'>&copy;チーム　for 伊賀市</font></div>" +
 				"</div>";
 		}
 		else{
@@ -82,54 +87,72 @@ function parseXml(xml){
 }
 
 
-
 </script>
+
+
+<style type="text/css">
+#myfix {
+    padding-top : 45px;
+}
+#myfix form {
+    position : fixed;
+    top      : 130px;
+    left     : 15px;
+    width    : 100%;
+    z-index  : 2;
+}
+</style>
+
+
 </head>
 <body>
 
 <div data-role="page" id="home">
 
-<div data-role="header" data-position="fixed" align="center">
-<!--■■■■■⑥次の行を直す■■■■■-->
-<h1>鯖江市ゴミチェッカー</h1>
-<div data-role="fieldcontain">
-<fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
-	<input type="radio" name="mygyou_sel" id="mygyou_sel0" value="全て" onClick="myparseXml();" checked />
-	<label for="mygyou_sel0">全て</label>
-	<input type="radio" name="mygyou_sel" id="mygyou_sel1" value="あ" onClick="myparseXml();" />
-	<label for="mygyou_sel1">あ行</label>
-	<input type="radio" name="mygyou_sel" id="mygyou_sel2" value="か" onClick="myparseXml();" />
-	<label for="mygyou_sel2">か行</label>
-	<input type="radio" name="mygyou_sel" id="mygyou_sel3" value="さ" onClick="myparseXml();" />
-	<label for="mygyou_sel3">さ行</label>
-	<input type="radio" name="mygyou_sel" id="mygyou_sel4" value="た" onClick="myparseXml();" />
-	<label for="mygyou_sel4">た行</label>
-	<input type="radio" name="mygyou_sel" id="mygyou_sel5" value="な" onClick="myparseXml();" />
-	<label for="mygyou_sel5">な行</label>
-	<input type="radio" name="mygyou_sel" id="mygyou_sel6" value="は" onClick="myparseXml();" />
-	<label for="mygyou_sel6">は行</label>
-	<input type="radio" name="mygyou_sel" id="mygyou_sel7" value="ま" onClick="myparseXml();" />
-	<label for="mygyou_sel7">ま行</label>
-	<input type="radio" name="mygyou_sel" id="mygyou_sel8" value="や" onClick="myparseXml();" />
-	<label for="mygyou_sel8">や行</label>
-	<input type="radio" name="mygyou_sel" id="mygyou_sel9" value="ら" onClick="myparseXml();" />
-	<label for="mygyou_sel9">ら行</label>
-	<input type="radio" name="mygyou_sel" id="mygyou_sel10" value="わ" onClick="myparseXml();" />
-	<label for="mygyou_sel10">わ行</label>
-</fieldset>
-</div>
+<div data-role="header" data-position="fixed" align="center" data-tap-toggle="false" style="min-height:115px;">
+<!--■■■■■⑥次を直す■■■■■画像が無ければ次で書き換え：<font size="2">このゴミ、燃えるゴミだっけ？</font><br><br><div>○○ゴミチェッカー</div>■■■■■-->
+<font size="2">このゴミ、燃えるゴミだっけ？</font><br><br><div>伊賀市ゴミチェッカー</div>
+<!-- <div><image src="image/blue.png" width="100%" height="22" alt=""></div> 
+<font size="3"><span style="position: absolute; top: 1px; left: 18px;">このゴミ、燃えるゴミだっけ？</span></font>
+<image src="image/gomichecker.png" width="200" alt="gomichecker" align="left">
+<image src="image/search.png" width="80" alt="50onsearch">
+<!--■■■■■※ここまで■■■■■-->
+<select id="mysel" name="mysel" data-inline="true" onchange="myparseXml()">
+	<option value="全て">全て</option>
+	<option value="あ">あ行</option>
+	<option value="か">か行</option>
+	<option value="さ">さ行</option>
+	<option value="た">た行</option>
+	<option value="な">な行</option>
+	<option value="は">は行</option>
+	<option value="ま">ま行</option>
+	<option value="や">や行</option>
+	<option value="ら">ら行</option>
+	<option value="わ">わ行</option>
+</select>
 </div>
 
 <div data-role="content" id="myListview">
+<div id="myfix">
 <ul data-role="listview" id="myList" data-filter="true" data-filter-placeholder="検索ワード...（ひらがな検索対応）"></ul>
 </div>
+</div>
 
-<!--■■■■■⑦次の行を直す■■■■■-->
-<div data-role="footer" data-position="fixed" align="center"><font size="2"><a href="http://www.city.sabae.fukui.jp/pageview.html?id=11552" target="_blank">データシティ鯖江</a><br>Last updated[2013/XX/XX]</font></div>
+<div data-role="footer" data-position="fixed" align="center" data-tap-toggle="false">
+<font size="2">
+<!--■■■■■⑦次を直す■■■■■画像が無ければ次で書き換え：<a href="http://～">町内別ゴミ収集日をチェック！</a><br>■■■■■-->
+<!-- <a href="gomicalendar.html" target="_blank" style="text-decoration:none">
+<div><image src="image/white.png" width="100%" height="30" alt=""></div>
+<span style="position: absolute; top: 8px; left: 10px;">町内別ゴミ収集日をチェック！</span>
+<span style="position: absolute; top: 2px; left: 190px;"><image src="image/gomicalendar-mini.png" width="130" alt=""></span></a>
+<!--■■■■■※ここまで■■■■■-->
+<!--■■■■■⑧次を直す■■■■■-->
+original <a href="http://www.city.echizen.lg.jp/office/010/010/open-data-echizen.html" target="_blank">越前市オープンデータ　「オープンデータ越前！」</a><br>
+&copy;チーム for 伊賀市　　Last updated[2014/03/17]</font></div>
+<!--■■■■■※ここまで■■■■■-->
 
 </div>
 
 
 </body>
 </html>
-<!--■■■■■越前市ゴミチェッカーを元に作成■■■■■-->
