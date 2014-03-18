@@ -50,7 +50,7 @@
 		<on>あ</on>
 		<name>アコーディオンカーテン</name>
 		<keyword>アコーディオンカーテン,あこーでぃおんかーてん</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
@@ -80,15 +80,15 @@
 		<on>あ</on>
 		<name>雨戸</name>
 		<keyword>雨戸,あまど</keyword>
-		<kubun>粗大ごみ </kubun>
-		<zyouken>3 枚までで 1 点　集積場収集不可　個人で取りはずしたものに限る</zyouken>
+		<kubun>粗大ごみ</kubun>
+		<zyouken>3枚までで1点集積場収集不可個人で取りはずしたものに限る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>あ</gyou>
 		<on>あ</on>
 		<name>雨どい</name>
 		<keyword>雨どい,あまどい</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 		<zyouken>個人で取りはずしたものに限る</zyouken>
 	</gomi>
 	<gomi>
@@ -127,8 +127,8 @@
 		<on>あ</on>
 		<name>網戸</name>
 		<keyword>網戸,あみど</keyword>
-		<kubun>粗大ごみ </kubun>
-		<zyouken>3 枚までで 1 点　集積場収集不可　個人で取りはずしたものに限る 
+		<kubun>粗大ごみ</kubun>
+		<zyouken>3枚までで1点集積場収集不可個人で取りはずしたものに限る
 </zyouken>
 	</gomi>
 	<gomi>
@@ -168,7 +168,7 @@
 		<name>アルミホイルの紙箱・芯</name>
 		<keyword>アルミホイルの紙箱・芯,あるみほいる,しん</keyword>
 		<kubun>紙・布類</kubun>
-		<zyouken>ひもでしばる　金属は取りはずし「金属類」</zyouken>
+		<zyouken>ひもでしばる金属は取りはずし「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>あ</gyou>
@@ -197,7 +197,7 @@
 		<on>あ</on>
 		<name>アンテナ（テレビ用）</name>
 		<keyword>アンテナ（テレビ用）,あんてな</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
@@ -213,7 +213,7 @@
 		<on>あ</on>
 		<name>あんま機</name>
 		<keyword>あんま機,あんまき</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
@@ -228,7 +228,7 @@
 		<on>い</on>
 		<name>育苗箱</name>
 		<keyword>育苗箱,いくびょうはこ,いくびょうばこ</keyword>
-		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可） 
+		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可）
 </zyouken>
 	</gomi>
 	<gomi>
@@ -251,7 +251,7 @@
 		<on>い</on>
 		<name>衣装ケース【金属製】</name>
 		<keyword>衣装ケース【金属製】,いしょうけーす</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>あ</gyou>
@@ -297,7 +297,7 @@
 		<name>板切れ</name>
 		<keyword>板切れ,いたきれ,いたぎれ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>金属は取りはずし「金属類」　50ｃｍ以下に切り,ひもでしばる</zyouken>
+		<zyouken>金属は取りはずし「金属類」50ｃｍ以下に切り,ひもでしばる</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>あ</gyou>
@@ -320,7 +320,7 @@
 		<on>い</on>
 		<name>一輪車（スポーツ用）</name>
 		<keyword>一輪車（スポーツ用）,いちりんしゃ</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>あ</gyou>
@@ -328,7 +328,7 @@
 		<name>衣類</name>
 		<keyword>衣類,いるい</keyword>
 		<kubun>紙・布類</kubun>
-		<zyouken>袋に入れる　汚れているものは「硬プラ・革製品類」</zyouken>
+		<zyouken>袋に入れる汚れているものは「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>あ</gyou>
@@ -358,7 +358,7 @@
 		<name>インクカートリッジ,リボン</name>
 		<keyword>インクカートリッジ,リボン,いんくかーとりっじ,りぼん</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>金属は取りはずし「金属類」　　または販売店の回収ボックスへ</zyouken>
+		<zyouken>金属は取りはずし「金属類」または販売店の回収ボックスへ</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>あ</gyou>
@@ -507,7 +507,7 @@
 		<name>オイルボトル【プラスチック製】</name>
 		<keyword>オイルボトル【プラスチック製】,おいるぼとる,ぼとる,おいる</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>中身は使い切る　　金属製のものは「金属類」</zyouken>
+		<zyouken>中身は使い切る金属製のものは「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>あ</gyou>
@@ -562,10 +562,10 @@
 	<gomi>
 		<gyou>あ</gyou>
 		<on>お</on>
-		<name>落ち葉　※４袋まで</name>
-		<keyword>落ち葉　※４袋まで,おちば</keyword>
+		<name>落ち葉※４袋まで</name>
+		<keyword>落ち葉※４袋まで,おちば</keyword>
 		<kubun>可燃ごみ</kubun>
-		<zyouken>5 袋以上はさくらリサイクルセンターへ持込</zyouken>
+		<zyouken>5袋以上はさくらリサイクルセンターへ持込</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>あ</gyou>
@@ -589,7 +589,7 @@
 		<name>おもちゃ【木・プラスチック製】</name>
 		<keyword>おもちゃ【木・プラスチック製】,おもちゃ,がんぐ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>乾電池式のものは「金属類」　　金属が取れないものは「金属類」</zyouken>
+		<zyouken>乾電池式のものは「金属類」金属が取れないものは「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>あ</gyou>
@@ -646,10 +646,10 @@
 	<gomi>
 		<gyou>か</gyou>
 		<on>か</on>
-		<name>カーテンレール </name>
-		<keyword>カーテンレール ,かーてんれーる </keyword>
+		<name>カーテンレール</name>
+		<keyword>カーテンレール,かーてんれーる</keyword>
 		<kubun>金属類</kubun>
-		<zyouken>50ｃｍ以上のものは「戸別収集」か「直接搬入」（5 本までで１点） </zyouken>
+		<zyouken>50ｃｍ以上のものは「戸別収集」か「直接搬入」（5本までで１点）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -657,7 +657,7 @@
 		<name>カーペット（非電気製）</name>
 		<keyword>カーペット（非電気製）,かーぺっと</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>折りたたんで,ひもでしばる　折りたためないものは「戸別収集」か「直接搬入」</zyouken>
+		<zyouken>折りたたんで,ひもでしばる折りたためないものは「戸別収集」か「直接搬入」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -804,7 +804,7 @@
 		<name>ガステーブル、ガスレンジ</name>
 		<keyword>ガステーブル、ガスレンジ,がすてーぶる,がずれんじ</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>乾電池は取りはずし「埋立ごみ」　　50ｃｍ以下は「金属類」</zyouken>
+		<zyouken>乾電池は取りはずし「埋立ごみ」50ｃｍ以下は「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -818,7 +818,7 @@
 		<on>か</on>
 		<name>ガスボンベ（LBガス）</name>
 		<keyword>ガスボンベ（LBガス）,がすぼんべ,がす</keyword>
-		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可） 
+		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可）
 </zyouken>
 	</gomi>
 	<gomi>
@@ -879,7 +879,7 @@
 		<name>カップめん容器【プラスチック製】</name>
 		<keyword>カップめん容器【プラスチック製】,かっぷめん,かっぷ</keyword>
 		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ</kubun>
-		<zyouken>プラマークのあるもの　汚れを取り除く　汚れたものは「可燃ごみ」</zyouken>
+		<zyouken>プラマークのあるもの汚れを取り除く汚れたものは「可燃ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -887,7 +887,7 @@
 		<name>かなづち</name>
 		<keyword>かなづち,かなづち,かなずち</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>工具類は 10 個までで 1 点　　集積場収集不可</zyouken>
+		<zyouken>工具類は10個までで1点集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -1005,7 +1005,7 @@
 		<name>紙パック（内側が白いもの）</name>
 		<keyword>紙パック（内側が白いもの）,かみぱっく</keyword>
 		<kubun>紙・布類</kubun>
-		<zyouken>中を洗って乾かし,切り開いてひもでしばる </zyouken>
+		<zyouken>中を洗って乾かし,切り開いてひもでしばる</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -1282,10 +1282,10 @@
 	<gomi>
 		<gyou>か</gyou>
 		<on>く</on>
-		<name>草　※４袋まで</name>
-		<keyword>草　※４袋まで,くさ</keyword>
+		<name>草※４袋まで</name>
+		<keyword>草※４袋まで,くさ</keyword>
 		<kubun>可燃ごみ</kubun>
-		<zyouken>土を落とす　5 袋以上はさくらリサイクルセンターへ持込 </zyouken>
+		<zyouken>土を落とす5袋以上はさくらリサイクルセンターへ持込</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -1293,7 +1293,7 @@
 		<name>草刈り機</name>
 		<keyword>草刈り機,くさかりき</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>家庭用に限る　集積場収集不可</zyouken>
+		<zyouken>家庭用に限る集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -1301,7 +1301,7 @@
 		<name>草刈り機用刈刃</name>
 		<keyword>草刈り機用刈刃,くさかりき,かえば</keyword>
 		<kubun>金属類</kubun>
-		<zyouken>家庭用に限る　　厚紙等に包む</zyouken>
+		<zyouken>家庭用に限る厚紙等に包む</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -1331,7 +1331,7 @@
 		<name>串【金属製】</name>
 		<keyword>串【金属製】,くし</keyword>
 		<kubun>金属類</kubun>
-		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する </zyouken>
+		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -1374,8 +1374,8 @@
 	<gomi>
 		<gyou>か</gyou>
 		<on>く</on>
-		<name>首輪【金属・皮製】 </name>
-		<keyword>首輪【金属・皮製】 ,くびわ</keyword>
+		<name>首輪【金属・皮製】</name>
+		<keyword>首輪【金属・皮製】,くびわ</keyword>
 		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
@@ -1467,7 +1467,7 @@
 		<name>ゲーム機器</name>
 		<keyword>ゲーム機器,げーむきき</keyword>
 		<kubun>金属類</kubun>
-		<zyouken>ボタン電池・充電池は取りはずして,販売店の回収ボックスへ </zyouken>
+		<zyouken>ボタン電池・充電池は取りはずして,販売店の回収ボックスへ</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -1547,7 +1547,7 @@
 		<name>工具類</name>
 		<keyword>工具類,こうぐるい</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>スパナ、ペンチなど（10 個までで 1 点）　集積場収集不可。　ドライバーは「金属類」</zyouken>
+		<zyouken>スパナ、ペンチなど（10個までで1点）集積場収集不可。ドライバーは「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -1603,8 +1603,8 @@
 	<gomi>
 		<gyou>か</gyou>
 		<on>こ</on>
-		<name>コピー機　※業務用は除く</name>
-		<keyword>コピー機　※業務用は除く,こぴーき</keyword>
+		<name>コピー機※業務用は除く</name>
+		<keyword>コピー機※業務用は除く,こぴーき</keyword>
 		<kubun>金属類</kubun>
 		<zyouken>インク,トナーなどは取り除く</zyouken>
 	</gomi>
@@ -1670,8 +1670,8 @@
 		<name>ゴルフクラブ</name>
 		<keyword>ゴルフクラブ,ごるふくらぶ</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken> 
-10 本までで 1 点　集積場収集不可</zyouken>
+		<zyouken>
+10本までで1点集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>か</gyou>
@@ -1803,7 +1803,7 @@
 		<name>シーツ</name>
 		<keyword>シーツ,しーつ</keyword>
 		<kubun>紙・布類</kubun>
-		<zyouken>ごみ袋に入れる　汚れたものは「硬プラ・革製品類」</zyouken>
+		<zyouken>ごみ袋に入れる汚れたものは「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -1817,42 +1817,42 @@
 		<on>し</on>
 		<name>ＣＤ・ＭＤプレーヤー,ラジカセ</name>
 		<keyword>ＣＤ・ＭＤプレーヤー,ラジカセ,しーでぃー,しーでー,えむでー,えむでぃー,ぷれーやー</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
 		<name>シェーバー</name>
 		<keyword>シェーバー,しぇーばー</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
 		<name>磁気ネックレス</name>
 		<keyword>磁気ネックレス,じきねっくれす,ねっくれす</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
 		<name>下着</name>
 		<keyword>下着,したぎ</keyword>
-		<kubun>可燃ごみ </kubun>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
 		<name>七輪（しちりん）</name>
 		<keyword>七輪（しちりん）,しちりん</keyword>
-		<kubun>埋立ごみ </kubun>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
 		<name>湿布（しっぷ）</name>
 		<keyword>湿布（しっぷ）,しっぷ</keyword>
-		<kubun>可燃ごみ </kubun>
+		<kubun>可燃ごみ</kubun>
 		<zyouken>はくりフィルムも可燃ごみ</zyouken>
 	</gomi>
 	<gomi>
@@ -1882,7 +1882,7 @@
 		<on>し</on>
 		<name>シャープペンシル【金属製】</name>
 		<keyword>シャープペンシル【金属製】,しゃーぷぺんしる,しゃーぺん</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -1896,7 +1896,7 @@
 		<on>し</on>
 		<name>写真・ネガ・フィルム</name>
 		<keyword>写真・ネガ・フィルム,しゃしん,ねが,ふぃるむ</keyword>
-		<kubun>可燃ごみ </kubun>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -1910,7 +1910,7 @@
 		<on>し</on>
 		<name>ジャンパー</name>
 		<keyword>ジャンパー,じゃんぱー</keyword>
-		<kubun>紙・布類 </kubun>
+		<kubun>紙・布類</kubun>
 		<zyouken>破れているものやほつれているものは「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
@@ -1918,7 +1918,7 @@
 		<on>し</on>
 		<name>ジューサー,ミキサー</name>
 		<keyword>ジューサー,ミキサー,じゅーさー,みきさー</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -1933,21 +1933,21 @@
 		<name>じゅうたん</name>
 		<keyword>じゅうたん,じゅうたん</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>折りたたんで,ひもでしばる　折りたためないものは「戸別収集」か「直接搬入」</zyouken>
+		<zyouken>折りたたんで,ひもでしばる折りたためないものは「戸別収集」か「直接搬入」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
 		<name>シュレッダー（家庭用）</name>
 		<keyword>シュレッダー（家庭用）,しゅれっだー</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
 		<name>シュレッダーごみ</name>
 		<keyword>シュレッダーごみ,しゅれっだーごみ</keyword>
-		<kubun>紙・布類 </kubun>
+		<kubun>紙・布類</kubun>
 		<zyouken>破れないようにごみ袋を二重にする</zyouken>
 	</gomi>
 	<gomi>
@@ -1967,15 +1967,15 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
-		<name>定規【金属製】 </name>
-		<keyword>定規【金属製】 ,じょうぎ</keyword>
-		<kubun>金属類 </kubun>
+		<name>定規【金属製】</name>
+		<keyword>定規【金属製】,じょうぎ</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
-		<name>将棋の駒 </name>
-		<keyword>将棋の駒 ,しょうぎのこま,こま</keyword>
+		<name>将棋の駒</name>
+		<keyword>将棋の駒,しょうぎのこま,こま</keyword>
 		<kubun>可燃ごみ</kubun>
 		<zyouken>携帯用マグネット式は「金属類」</zyouken>
 	</gomi>
@@ -1984,7 +1984,7 @@
 		<on>し</on>
 		<name>じょうご【金属製】</name>
 		<keyword>じょうご【金属製】,じょうご</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -1999,21 +1999,21 @@
 		<name>障子</name>
 		<keyword>障子,しょうじ</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>3 枚までで 1 点　集積場収集不可　個人で取りはずしたものに限る</zyouken>
+		<zyouken>3枚までで1点集積場収集不可個人で取りはずしたものに限る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
-		<name>浄水機 </name>
-		<keyword>浄水機 ,じょうすいき</keyword>
-		<kubun>金属類 </kubun>
+		<name>浄水機</name>
+		<keyword>浄水機,じょうすいき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
 		<name>浄水器（カートリッジ）</name>
 		<keyword>浄水器（カートリッジ）,じょうすいき</keyword>
-		<kubun>埋立ごみ </kubun>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2021,14 +2021,14 @@
 		<name>照明器具</name>
 		<keyword>照明器具,しょうめいきぐ,しょうめい</keyword>
 		<kubun>金属類</kubun>
-		<zyouken>蛍光管,電球は取りはずし「埋立ごみ」　50ｃｍ以上のものは「戸別収集」か「直接搬入」</zyouken>
+		<zyouken>蛍光管,電球は取りはずし「埋立ごみ」50ｃｍ以上のものは「戸別収集」か「直接搬入」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
 		<name>じょうろ【金属製】</name>
 		<keyword>じょうろ【金属製】,じょうろ</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2040,32 +2040,32 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
-		<name>除湿機 </name>
-		<keyword>除湿機 ,じょしつき</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>必ず水を抜く </zyouken>
+		<name>除湿機</name>
+		<keyword>除湿機,じょしつき</keyword>
+		<kubun>金属類</kubun>
+		<zyouken>必ず水を抜く</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
-		<name>除湿剤 </name>
-		<keyword>除湿剤 ,じょしつざい</keyword>
+		<name>除湿剤</name>
+		<keyword>除湿剤,じょしつざい</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>必ず水を抜く </zyouken>
+		<zyouken>必ず水を抜く</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
-		<name>食器【金属製】 </name>
-		<keyword>食器【金属製】 ,しょっき</keyword>
-		<kubun>金属類 </kubun>
+		<name>食器【金属製】</name>
+		<keyword>食器【金属製】,しょっき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
-		<name>食器【紙製】 </name>
-		<keyword>食器【紙製】 ,しょっき</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>食器【紙製】</name>
+		<keyword>食器【紙製】,しょっき</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2079,14 +2079,14 @@
 		<on>し</on>
 		<name>食器【ガラス・陶磁器製】</name>
 		<keyword>食器【ガラス・陶磁器製】,しょっき</keyword>
-		<kubun>埋立ごみ </kubun>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
-		<name>食器乾燥機 </name>
-		<keyword>食器乾燥機 ,しょっきかんそうき</keyword>
-		<kubun>金属類 </kubun>
+		<name>食器乾燥機</name>
+		<keyword>食器乾燥機,しょっきかんそうき</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>プラスチック製のふたは「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
@@ -2107,18 +2107,18 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
-		<name>食品トレー </name>
-		<keyword>食品トレー ,とれー,しょくひんとれー</keyword>
-		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ </kubun>
-		<zyouken>汚れを取り除く　　スーパー等の回収ボックスあり</zyouken>
+		<name>食品トレー</name>
+		<keyword>食品トレー,とれー,しょくひんとれー</keyword>
+		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ</kubun>
+		<zyouken>汚れを取り除くスーパー等の回収ボックスあり</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>し</on>
-		<name>人工芝 </name>
-		<keyword>人工芝 ,じんこうしば,しば</keyword>
+		<name>人工芝</name>
+		<keyword>人工芝,じんこうしば,しば</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>50ｃｍ以下に切る </zyouken>
+		<zyouken>50ｃｍ以下に切る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2131,16 +2131,16 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>水槽 </name>
-		<keyword>水槽 ,すいそう</keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>水槽</name>
+		<keyword>水槽,すいそう</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>水筒【金属製】 </name>
-		<keyword>水筒【金属製】 ,すいとう</keyword>
-		<kubun>金属類 </kubun>
+		<name>水筒【金属製】</name>
+		<keyword>水筒【金属製】,すいとう</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2153,47 +2153,47 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>炊飯器 </name>
-		<keyword>炊飯器 ,すいはんき</keyword>
-		<kubun>金属類 </kubun>
+		<name>炊飯器</name>
+		<keyword>炊飯器,すいはんき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>スーツケース </name>
-		<keyword>スーツケース ,すーつけーす</keyword>
+		<name>スーツケース</name>
+		<keyword>スーツケース,すーつけーす</keyword>
 		<kubun>粗大ごみ</kubun>
 		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>姿見（鏡） </name>
-		<keyword>姿見（鏡） ,すずみ,かがみ</keyword>
+		<name>姿見（鏡）</name>
+		<keyword>姿見（鏡）,すずみ,かがみ</keyword>
 		<kubun>粗大ごみ</kubun>
 		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>スキー板 </name>
-		<keyword>スキー板 ,すきーいた</keyword>
+		<name>スキー板</name>
+		<keyword>スキー板,すきーいた</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>ストックを含み1点　集積場収集不可</zyouken>
+		<zyouken>ストックを含み1点集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>スキー靴 </name>
-		<keyword>スキー靴 ,すきーくつ</keyword>
+		<name>スキー靴</name>
+		<keyword>スキー靴,すきーくつ</keyword>
 		<kubun>粗大ごみ</kubun>
 		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>スケート靴 </name>
-		<keyword>スケート靴 ,すけーとくつ</keyword>
+		<name>スケート靴</name>
+		<keyword>スケート靴,すけーとくつ</keyword>
 		<kubun>粗大ごみ</kubun>
 		<zyouken>集積場収集不可</zyouken>
 	</gomi>
@@ -2210,7 +2210,7 @@
 		<on>す</on>
 		<name>スコップ【金属製】</name>
 		<keyword>スコップ【金属製】,すこっぷ</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2222,15 +2222,15 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>すずり（硯） </name>
-		<keyword>すずり（硯） ,すずり</keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>すずり（硯）</name>
+		<keyword>すずり（硯）,すずり</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>すだれ </name>
-		<keyword>すだれ ,すだれ </keyword>
+		<name>すだれ</name>
+		<keyword>すだれ,すだれ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 		<zyouken>50ｃｍ以上のものは「戸別収集」か「直接搬入」</zyouken>
 	</gomi>
@@ -2239,7 +2239,7 @@
 		<on>す</on>
 		<name>スタンプ台【金属製】</name>
 		<keyword>スタンプ台【金属製】,すたんぷだい</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2259,17 +2259,17 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>スチール缶 </name>
-		<keyword>スチール缶 ,すちーるかん,かん</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>中を水洗いする </zyouken>
+		<name>スチール缶</name>
+		<keyword>スチール缶,すちーるかん,かん</keyword>
+		<kubun>金属類</kubun>
+		<zyouken>中を水洗いする</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>ステレオ </name>
-		<keyword>ステレオ ,すてれお </keyword>
-		<kubun>金属類 </kubun>
+		<name>ステレオ</name>
+		<keyword>ステレオ,すてれお</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>50ｃｍ以上のものは「戸別収集」か「直接搬入」</zyouken>
 	</gomi>
 	<gomi>
@@ -2277,7 +2277,7 @@
 		<on>す</on>
 		<name>ステンレスパイプ棚</name>
 		<keyword>ステンレスパイプ棚,すてんれすぱいぷたな,ぱいぷたな</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 		<zyouken>50ｃｍ以上のものは「戸別収集」か「直接搬入」</zyouken>
 	</gomi>
 	<gomi>
@@ -2294,13 +2294,13 @@
 		<name>ストーブ（灯油）</name>
 		<keyword>ストーブ（灯油）,すとーぶ</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>乾電池・灯油は必ず抜く　　集積場収集不可</zyouken>
+		<zyouken>乾電池・灯油は必ず抜く集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>ストロー </name>
-		<keyword>ストロー ,すとろー </keyword>
+		<name>ストロー</name>
+		<keyword>ストロー,すとろー</keyword>
 		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
@@ -2313,9 +2313,9 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>スノーボード </name>
-		<keyword>スノーボード ,すのーぼーど </keyword>
-		<kubun>粗大ごみ </kubun>
+		<name>スノーボード</name>
+		<keyword>スノーボード,すのーぼーど</keyword>
+		<kubun>粗大ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2330,7 +2330,7 @@
 		<on>す</on>
 		<name>スパイクシューズ</name>
 		<keyword>スパイクシューズ,すぱいくしゅーず</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2338,38 +2338,38 @@
 		<name>スパナ</name>
 		<keyword>スパナ,すぱな</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>10 個までで 1 点　集積場収集不可</zyouken>
+		<zyouken>10個までで1点集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>スプレー缶 </name>
-		<keyword>スプレー缶 ,すぷれーかん,すぷれー</keyword>
-		<kubun>埋立ごみ </kubun>
-		<zyouken>中身を使い切り,必ず穴をあける </zyouken>
+		<name>スプレー缶</name>
+		<keyword>スプレー缶,すぷれーかん,すぷれー</keyword>
+		<kubun>埋立ごみ</kubun>
+		<zyouken>中身を使い切り,必ず穴をあける</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
 		<name>すべり台</name>
 		<keyword>すべり台,すべりだい</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>スポンジ </name>
-		<keyword>スポンジ ,すぽんじ </keyword>
+		<name>スポンジ</name>
+		<keyword>スポンジ,すぽんじ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>50ｃｍ以下に切る　　食器洗い用は「可燃ごみ」</zyouken>
+		<zyouken>50ｃｍ以下に切る食器洗い用は「可燃ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
 		<name>炭</name>
 		<keyword>炭,すみ</keyword>
-		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可） </zyouken>
+		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2388,8 +2388,8 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>す</on>
-		<name>スリッパ </name>
-		<keyword>スリッパ ,すりっぱ </keyword>
+		<name>スリッパ</name>
+		<keyword>スリッパ,すりっぱ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
@@ -2402,31 +2402,31 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>生花 </name>
-		<keyword>生花 ,せいか,はな</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>生花</name>
+		<keyword>生花,せいか,はな</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>精米機（家庭用） </name>
-		<keyword>精米機（家庭用） ,せいまいき</keyword>
-		<kubun>金属類 </kubun>
+		<name>精米機（家庭用）</name>
+		<keyword>精米機（家庭用）,せいまいき</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>50ｃｍ以上のものは「戸別収集」か「直接搬入」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>生理用品 </name>
-		<keyword>生理用品 ,せいりようひん</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>生理用品</name>
+		<keyword>生理用品,せいりようひん</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>セーター </name>
-		<keyword>セーター ,せーたー </keyword>
-		<kubun>紙・布類 </kubun>
+		<name>セーター</name>
+		<keyword>セーター,せーたー</keyword>
+		<kubun>紙・布類</kubun>
 		<zyouken>破れているものやほつれているものは「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
@@ -2434,50 +2434,50 @@
 		<on>せ</on>
 		<name>石膏ボード</name>
 		<keyword>石膏ボード,せっこうぼーど</keyword>
-		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可） </zyouken>
+		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
 		<name>セラミックヒーター</name>
 		<keyword>セラミックヒーター,せらみっくひーたー</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
 		<name>セラミック調理器具等</name>
 		<keyword>セラミック調理器具等,せらみっく,ちょうりきぐ</keyword>
-		<kubun>埋立ごみ </kubun>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>セロテープ台 </name>
-		<keyword>セロテープ台 ,せろてーぷだい,てーぷ</keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>セロテープ台</name>
+		<keyword>セロテープ台,せろてーぷだい,てーぷ</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>線香 </name>
-		<keyword>線香 ,せんこう</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>線香</name>
+		<keyword>線香,せんこう</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>洗剤ボトル容器 </name>
-		<keyword>洗剤ボトル容器 ,せんざいぼとるようき,ようき,ぼとる</keyword>
-		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ </kubun>
-		<zyouken>プラマークのあるもの　　軽くすすぐ</zyouken>
+		<name>洗剤ボトル容器</name>
+		<keyword>洗剤ボトル容器,せんざいぼとるようき,ようき,ぼとる</keyword>
+		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ</kubun>
+		<zyouken>プラマークのあるもの軽くすすぐ</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>せんす </name>
-		<keyword>せんす ,せんす </keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>せんす</name>
+		<keyword>せんす,せんす</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2497,9 +2497,9 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>洗濯ばさみ </name>
-		<keyword>洗濯ばさみ ,せんたくばさみ,はさい</keyword>
-		<kubun>金属類 </kubun>
+		<name>洗濯ばさみ</name>
+		<keyword>洗濯ばさみ,せんたくばさみ,はさい</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2507,28 +2507,28 @@
 		<name>剪定枝</name>
 		<keyword>剪定枝,せんていえだ,えだ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>50ｃｍ以下に切り,ひもでしばる　直径 10ｃｍ以上は割る　せん定くずは,袋に入れて出す　4 袋まで</zyouken>
+		<zyouken>50ｃｍ以下に切り,ひもでしばる直径10ｃｍ以上は割るせん定くずは,袋に入れて出す4袋まで</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>栓抜き </name>
-		<keyword>栓抜き ,せんぬき</keyword>
-		<kubun>金属類 </kubun>
+		<name>栓抜き</name>
+		<keyword>栓抜き,せんぬき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>扇風機 </name>
-		<keyword>扇風機 ,せんぷうき</keyword>
-		<kubun>金属類 </kubun>
+		<name>扇風機</name>
+		<keyword>扇風機,せんぷうき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>せ</on>
-		<name>洗面器【金属製】 </name>
-		<keyword>洗面器【金属製】 ,せんめんき</keyword>
-		<kubun>金属類 </kubun>
+		<name>洗面器【金属製】</name>
+		<keyword>洗面器【金属製】,せんめんき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
@@ -2540,43 +2540,43 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>そ</on>
-		<name>造花 </name>
-		<keyword>造花 ,ぞうか</keyword>
-		<kubun>金属類 </kubun>
+		<name>造花</name>
+		<keyword>造花,ぞうか</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>そ</on>
-		<name>双眼鏡 </name>
-		<keyword>双眼鏡 ,そうがんきょう</keyword>
-		<kubun>金属類 </kubun>
+		<name>双眼鏡</name>
+		<keyword>双眼鏡,そうがんきょう</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>そ</on>
-		<name>ぞうきん </name>
-		<keyword>ぞうきん ,ぞうきん </keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>ぞうきん</name>
+		<keyword>ぞうきん,ぞうきん</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>そ</on>
-		<name>掃除機 </name>
-		<keyword>掃除機 ,そうじき</keyword>
-		<kubun>金属類 </kubun>
+		<name>掃除機</name>
+		<keyword>掃除機,そうじき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>そ</on>
 		<name>掃除機用紙パック</name>
 		<keyword>掃除機用紙パック,そうじきようかみぱっく,ぱっく</keyword>
-		<kubun>可燃ごみ </kubun>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>さ</gyou>
 		<on>そ</on>
-		<name>ぞうり </name>
-		<keyword>ぞうり ,ぞうり </keyword>
+		<name>ぞうり</name>
+		<keyword>ぞうり,ぞうり</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
@@ -2584,14 +2584,14 @@
 		<on>そ</on>
 		<name>ソファ</name>
 		<keyword>ソファ,そふぁ</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
-		<name>体温計 </name>
-		<keyword>体温計 ,たいおんけい</keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>体温計</name>
+		<keyword>体温計,たいおんけい</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -2599,7 +2599,7 @@
 		<name>体脂肪計・体重計</name>
 		<keyword>体脂肪計・体重計,たいしぼうけい,たいじゅうけい</keyword>
 		<kubun>金属類</kubun>
-		<zyouken>乾電池は取りはずし「埋立ごみ」 </zyouken>
+		<zyouken>乾電池は取りはずし「埋立ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -2613,68 +2613,68 @@
 		<on>た</on>
 		<name>タイヤチェーン</name>
 		<keyword>タイヤチェーン,たいやちぇーん</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
-		<name>タイル（少量） </name>
-		<keyword>タイル（少量） ,たいる</keyword>
-		<kubun>埋立ごみ </kubun>
-		<zyouken>多量の場合は不燃物処理場へ持込 </zyouken>
+		<name>タイル（少量）</name>
+		<keyword>タイル（少量）,たいる</keyword>
+		<kubun>埋立ごみ</kubun>
+		<zyouken>多量の場合は不燃物処理場へ持込</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
-		<name>タオル </name>
-		<keyword>タオル ,たおる </keyword>
-		<kubun>紙・布類 </kubun>
-		<zyouken>ごみ袋に入れる　汚れたものは「可燃ごみ」 </zyouken>
+		<name>タオル</name>
+		<keyword>タオル,たおる</keyword>
+		<kubun>紙・布類</kubun>
+		<zyouken>ごみ袋に入れる汚れたものは「可燃ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
-		<name>タオルケット </name>
-		<keyword>タオルケット ,たおるけっと </keyword>
-		<kubun>紙・布類 </kubun>
-		<zyouken>ひもでしばる　汚れたものは「硬プラ・革製品類」</zyouken>
+		<name>タオルケット</name>
+		<keyword>タオルケット,たおるけっと</keyword>
+		<kubun>紙・布類</kubun>
+		<zyouken>ひもでしばる汚れたものは「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
-		<name>畳 </name>
-		<keyword>畳 ,たたみ</keyword>
-		<kubun>粗大ごみ </kubun>
-		<zyouken>集積場収集不可 </zyouken>
+		<name>畳</name>
+		<keyword>畳,たたみ</keyword>
+		<kubun>粗大ごみ</kubun>
+		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
-		<name>脱臭剤 </name>
-		<keyword>脱臭剤 ,だっしゅうざい</keyword>
+		<name>脱臭剤</name>
+		<keyword>脱臭剤,だっしゅうざい</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
-		<name>脱毛器 </name>
-		<keyword>脱毛器 ,だつもうき</keyword>
-		<kubun>金属類 </kubun>
+		<name>脱毛器</name>
+		<keyword>脱毛器,だつもうき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
-		<name>たばこ </name>
-		<keyword>たばこ ,たばこ </keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>たばこ</name>
+		<keyword>たばこ,たばこ</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
-		<name>卵パック【紙製】 </name>
-		<keyword>卵パック【紙製】 ,たまごぱっく,ぱっく</keyword>
-		<kubun>紙・布類 </kubun>
+		<name>卵パック【紙製】</name>
+		<keyword>卵パック【紙製】,たまごぱっく,ぱっく</keyword>
+		<kubun>紙・布類</kubun>
 		<zyouken>ひもでしばる</zyouken>
 	</gomi>
 	<gomi>
@@ -2682,14 +2682,14 @@
 		<on>た</on>
 		<name>卵パック【プラスチック製】</name>
 		<keyword>卵パック【プラスチック製】,たまごぱっく,ぱっく</keyword>
-		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ </kubun>
+		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
-		<name>たらい【金属製】 </name>
-		<keyword>たらい【金属製】 ,たらい</keyword>
-		<kubun>金属類 </kubun>
+		<name>たらい【金属製】</name>
+		<keyword>たらい【金属製】,たらい</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -2710,20 +2710,20 @@
 		<on>た</on>
 		<name>たわし</name>
 		<keyword>たわし,たわし</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
 		<name>たわし（スポンジ）</name>
 		<keyword>たわし（スポンジ）,たわし,すぽんじ</keyword>
-		<kubun>可燃ごみ </kubun>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>た</on>
-		<name>タンス </name>
-		<keyword>タンス ,たんす</keyword>
+		<name>タンス</name>
+		<keyword>タンス,たんす</keyword>
 		<kubun>粗大ごみ</kubun>
 	</gomi>
 	<gomi>
@@ -2732,7 +2732,7 @@
 		<name>ダンベル【金属製】</name>
 		<keyword>ダンベル【金属製】,だんべる</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>5 個までで 1 点　集積場収集不可</zyouken>
+		<zyouken>5個までで1点集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -2740,7 +2740,7 @@
 		<name>ダンベル【プラスチック製】</name>
 		<keyword>ダンベル【プラスチック製】,だんべる</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>水は必ず抜く </zyouken>
+		<zyouken>水は必ず抜く</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -2755,7 +2755,7 @@
 		<on>ち</on>
 		<name>チェーン【金属製】</name>
 		<keyword>チェーン【金属製】,ちぇーん</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -2769,14 +2769,14 @@
 		<on>ち</on>
 		<name>チャイム（家庭用）</name>
 		<keyword>チャイム（家庭用）,ちゃいむ</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>ち</on>
 		<name>チャイルドシート</name>
 		<keyword>チャイルドシート,ちゃいるどしーと</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
@@ -2784,7 +2784,7 @@
 		<on>ち</on>
 		<name>注射器</name>
 		<keyword>注射器,ちゅうしゃき</keyword>
-		<zyouken>病院・販売店等に相談する（持込も不可） </zyouken>
+		<zyouken>病院・販売店等に相談する（持込も不可）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -2798,53 +2798,52 @@
 		<on>ち</on>
 		<name>チューブ類【金属製】</name>
 		<keyword>チューブ類【金属製】,ちゅーぶるい,ちゅーぶ</keyword>
-		<kubun>埋立ごみ </kubun>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>ち</on>
 		<name>チューブ類【プラスチック製】</name>
 		<keyword>チューブ類【プラスチック製】,ちゅーぶるい,ちゅーぶ</keyword>
-		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ </kubun>
-		<zyouken>中身をきれいにして出す　　汚れたものは「硬プラ・革製品類」</zyouken>
+		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ</kubun>
+		<zyouken>中身をきれいにして出す汚れたものは「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>ち</on>
-		<name>ちょうちん </name>
-		<keyword>ちょうちん ,ちょうちん </keyword>
+		<name>ちょうちん</name>
+		<keyword>ちょうちん,ちょうちん</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>金属は取りはずし「金属類」 </zyouken>
+		<zyouken>金属は取りはずし「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>ち</on>
-		<name>チョーク </name>
-		<keyword>チョーク ,ちょーく </keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken> </zyouken>
+		<name>チョーク</name>
+		<keyword>チョーク,ちょーく</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>ち</on>
-		<name>チラシ（広告） </name>
-		<keyword>チラシ（広告） ,ちらし</keyword>
-		<kubun>紙・布類 </kubun>
+		<name>チラシ（広告）</name>
+		<keyword>チラシ（広告）,ちらし</keyword>
+		<kubun>紙・布類</kubun>
 		<zyouken>ひもでしばる</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>ち</on>
-		<name>ちり紙 </name>
-		<keyword>ちり紙 ,ちりし</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>ちり紙</name>
+		<keyword>ちり紙,ちりし</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>ち</on>
 		<name>ちりとり【金属製】</name>
 		<keyword>ちりとり【金属製】,ちりとり</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -2856,9 +2855,9 @@
 	<gomi>
 		<gyou>た</gyou>
 		<on>つ</on>
-		<name>つえ【金属製】 </name>
-		<keyword>つえ【金属製】 ,つえ</keyword>
-		<kubun>金属類 </kubun>
+		<name>つえ【金属製】</name>
+		<keyword>つえ【金属製】,つえ</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -2870,31 +2869,31 @@
 	<gomi>
 		<gyou>た</gyou>
 		<on>つ</on>
-		<name>机類 </name>
-		<keyword>机類 ,つくえ,つくえるい</keyword>
+		<name>机類</name>
+		<keyword>机類,つくえ,つくえるい</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>50ｃｍ以下のものは金属を取りはずし「硬プラ・革製品類」 </zyouken>
+		<zyouken>50ｃｍ以下のものは金属を取りはずし「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>つ</on>
-		<name>つけもの石 </name>
-		<keyword>つけもの石 ,つけものいし</keyword>
-		<zyouken>不燃物処理場へ持込 </zyouken>
+		<name>つけもの石</name>
+		<keyword>つけもの石,つけものいし</keyword>
+		<zyouken>不燃物処理場へ持込</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>つ</on>
-		<name>土 </name>
-		<keyword>土 ,つち</keyword>
+		<name>土</name>
+		<keyword>土,つち</keyword>
 		<zyouken>不燃物処理場へ持込（乾いたものに限る）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>つ</on>
-		<name>つまようじ </name>
-		<keyword>つまようじ ,つまようじ </keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>つまようじ</name>
+		<keyword>つまようじ,つまようじ</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -2906,9 +2905,9 @@
 	<gomi>
 		<gyou>た</gyou>
 		<on>つ</on>
-		<name>つめ切り </name>
-		<keyword>つめ切り ,つめきり</keyword>
-		<kubun>金属類 </kubun>
+		<name>つめ切り</name>
+		<keyword>つめ切り,つめきり</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -2925,28 +2924,28 @@
 		<on>て</on>
 		<name>ティーパック</name>
 		<keyword>ティーパック,てぃーぱっく</keyword>
-		<kubun>可燃ごみ </kubun>
+		<kubun>可燃ごみ</kubun>
 		<zyouken>水切りをする</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
-		<name>ＤＶＤ ケース,ディスク</name>
-		<keyword>ＤＶＤ ケース,ディスク,でーぶいでー,でぃーぶいでぃー,けーす,でぃすく</keyword>
+		<name>ＤＶＤケース,ディスク</name>
+		<keyword>ＤＶＤケース,ディスク,でーぶいでー,でぃーぶいでぃー,けーす,でぃすく</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
-		<name>ＤＶＤ プレーヤー,レコーダー</name>
-		<keyword>ＤＶＤ プレーヤー,レコーダー,でーぶいでー,でぃーぶいでぃー,ぷれーやー</keyword>
-		<kubun>金属類 </kubun>
+		<name>ＤＶＤプレーヤー,レコーダー</name>
+		<keyword>ＤＶＤプレーヤー,レコーダー,でーぶいでー,でぃーぶいでぃー,ぷれーやー</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
-		<name>テーブルクロス </name>
-		<keyword>テーブルクロス ,てーぶるくろす </keyword>
+		<name>テーブルクロス</name>
+		<keyword>テーブルクロス,てーぶるくろす</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 		<zyouken>折りたたむか切るなどし,50ｃｍ以下にする</zyouken>
 	</gomi>
@@ -2955,31 +2954,31 @@
 		<on>て</on>
 		<name>テープレコーダー</name>
 		<keyword>テープレコーダー,てーぷれこーだー</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>乾電池は取りはずし「埋立ごみ」 </zyouken>
+		<kubun>金属類</kubun>
+		<zyouken>乾電池は取りはずし「埋立ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
 		<name>デジタルカメラ（本体・メモリーカード）</name>
 		<keyword>デジタルカメラ（本体・メモリーカード）,でじたるかめら,めもりーかーど</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 		<zyouken>充電池は取りはずし販売店の回収ボックスへ</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
-		<name>デスクマット </name>
-		<keyword>デスクマット ,ですくまっと </keyword>
+		<name>デスクマット</name>
+		<keyword>デスクマット,ですくまっと</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>50ｃｍ以下に切る </zyouken>
+		<zyouken>50ｃｍ以下に切る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
-		<name>手袋 </name>
-		<keyword>手袋 ,てぶくろ</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>手袋</name>
+		<keyword>手袋,てぶくろ</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -3000,23 +2999,23 @@
 		<on>て</on>
 		<name>電気カーペット（毛布・ひざかけ）</name>
 		<keyword>電気カーペット（毛布・ひざかけ）,でんきかーぺっと,かーぺっと</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>折りたたんで,ひもでしばる </zyouken>
+		<kubun>金属類</kubun>
+		<zyouken>折りたたんで,ひもでしばる</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
-		<name>電気スタンド </name>
-		<keyword>電気スタンド ,でんきすたんど</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>蛍光管,電球は取りはずし「埋立ごみ」 </zyouken>
+		<name>電気スタンド</name>
+		<keyword>電気スタンド,でんきすたんど</keyword>
+		<kubun>金属類</kubun>
+		<zyouken>蛍光管,電球は取りはずし「埋立ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
-		<name>電球 </name>
-		<keyword>電球 ,でんきゅう</keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>電球</name>
+		<keyword>電球,でんきゅう</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -3029,23 +3028,23 @@
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
-		<name>電子レンジ </name>
-		<keyword>電子レンジ ,でんしれんじ,れんじ</keyword>
-		<kubun>金属類 </kubun>
+		<name>電子レンジ</name>
+		<keyword>電子レンジ,でんしれんじ,れんじ</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
-		<name>電磁調理器 </name>
-		<keyword>電磁調理器 ,でんじちょうりき</keyword>
-		<kubun>金属類 </kubun>
+		<name>電磁調理器</name>
+		<keyword>電磁調理器,でんじちょうりき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
-		<name>電卓 </name>
-		<keyword>電卓 ,でんたく</keyword>
-		<kubun>金属類 </kubun>
+		<name>電卓</name>
+		<keyword>電卓,でんたく</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -3066,9 +3065,9 @@
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
-		<name>電動歯ブラシ </name>
-		<keyword>電動歯ブラシ ,でんどうはぶらし</keyword>
-		<kubun>金属類 </kubun>
+		<name>電動歯ブラシ</name>
+		<keyword>電動歯ブラシ,でんどうはぶらし</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>乾電池は取りはずし「埋立ごみ」</zyouken>
 	</gomi>
 	<gomi>
@@ -3076,14 +3075,14 @@
 		<on>て</on>
 		<name>天ぷら油こし器・天ぷら鍋</name>
 		<keyword>天ぷら油こし器・天ぷら鍋,てんぷらあぶら,あぶらこしき,てんぷら,なべ</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>て</on>
 		<name>電話機（ＦＡＸ電話機を含む）</name>
 		<keyword>電話機（ＦＡＸ電話機を含む）,でんわ,でんわき,ふぁっくす</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -3098,14 +3097,14 @@
 		<name>戸・ドア</name>
 		<keyword>戸・ドア,と,どあ</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>個人で取りはずしたものに限る　集積場収集不可</zyouken>
+		<zyouken>個人で取りはずしたものに限る集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>と</on>
 		<name>ドアチェーン・ドアノブ</name>
 		<keyword>ドアチェーン・ドアノブ,どあちぇーん,どあのぶ</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -3113,81 +3112,81 @@
 		<name>とい</name>
 		<keyword>とい,とい</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>個人で取りはずしたものに限る　集積場収集不可</zyouken>
+		<zyouken>個人で取りはずしたものに限る集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>と</on>
-		<name>といし </name>
-		<keyword>といし ,といし </keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>といし</name>
+		<keyword>といし,といし</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>と</on>
 		<name>トイレットペーパー芯</name>
 		<keyword>トイレットペーパー芯,といれっとぺーぱー芯</keyword>
-		<kubun>紙・布類 </kubun>
+		<kubun>紙・布類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>と</on>
-		<name>投光器 </name>
-		<keyword>投光器 ,とうこうき</keyword>
-		<kubun>金属類 </kubun>
+		<name>投光器</name>
+		<keyword>投光器,とうこうき</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>蛍光管,電球は取りはずし「埋立ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>と</on>
-		<name>陶磁器類 </name>
-		<keyword>陶磁器類 ,とうじき</keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>陶磁器類</name>
+		<keyword>陶磁器類,とうじき</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>と</on>
 		<name>動物用ケージ【金属製】</name>
 		<keyword>動物用ケージ【金属製】,けーじ,どうぶつようけーじ</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>と</on>
-		<name>トースター </name>
-		<keyword>トースター ,とーすたー </keyword>
-		<kubun>金属類 </kubun>
+		<name>トースター</name>
+		<keyword>トースター,とーすたー</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>と</on>
-		<name>時計 </name>
-		<keyword>時計 ,とけい</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>電池は取りはずす　（ボタン電池は販売店の回収ボックスへ） </zyouken>
+		<name>時計</name>
+		<keyword>時計,とけい</keyword>
+		<kubun>金属類</kubun>
+		<zyouken>電池は取りはずす（ボタン電池は販売店の回収ボックスへ）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>と</on>
-		<name>トタン類 </name>
-		<keyword>トタン類 ,とたん</keyword>
-		<kubun>金属類 </kubun>
+		<name>トタン類</name>
+		<keyword>トタン類,とたん</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>50ｃｍ以上のものは「戸別収集」か「直接搬入」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>と</on>
-		<name>ドライバー </name>
-		<keyword>ドライバー ,どらいばー </keyword>
-		<kubun>金属類 </kubun>
+		<name>ドライバー</name>
+		<keyword>ドライバー,どらいばー</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
 		<on>と</on>
-		<name>ドライヤー </name>
-		<keyword>ドライヤー ,どらいやー </keyword>
-		<kubun>金属類 </kubun>
+		<name>ドライヤー</name>
+		<keyword>ドライヤー,どらいやー</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>た</gyou>
@@ -3206,9 +3205,9 @@
 	<gomi>
 		<gyou>な</gyou>
 		<on>な</on>
-		<name>ナイフ類 </name>
-		<keyword>ナイフ類 ,ないふ</keyword>
-		<kubun>金属類 </kubun>
+		<name>ナイフ類</name>
+		<keyword>ナイフ類,ないふ</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する</zyouken>
 	</gomi>
 	<gomi>
@@ -3216,51 +3215,51 @@
 		<on>な</on>
 		<name>苗箱</name>
 		<keyword>苗箱,なえばこ</keyword>
-		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可） </zyouken>
+		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
 		<on>な</on>
-		<name>長靴 </name>
-		<keyword>長靴 ,ながぐつ,くつ,ながくつ</keyword>
+		<name>長靴</name>
+		<keyword>長靴,ながぐつ,くつ,ながくつ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
 		<on>な</on>
-		<name>流し台（簡易） </name>
-		<keyword>流し台（簡易） ,ながしだい</keyword>
+		<name>流し台（簡易）</name>
+		<keyword>流し台（簡易）,ながしだい</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>個人で取りはずしたものに限る　集積場収集不可</zyouken>
+		<zyouken>個人で取りはずしたものに限る集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
 		<on>な</on>
-		<name>鍋【金属製】 </name>
-		<keyword>鍋【金属製】 ,なべ</keyword>
-		<kubun>金属類 </kubun>
+		<name>鍋【金属製】</name>
+		<keyword>鍋【金属製】,なべ</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
 		<on>な</on>
 		<name>鍋【ガラス・陶磁器製・ホーロー】</name>
 		<keyword>鍋【ガラス・陶磁器製・ホーロー】,なべ</keyword>
-		<kubun>埋立ごみ </kubun>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
 		<on>な</on>
-		<name>鍋つかみ </name>
-		<keyword>鍋つかみ ,なべつかみ</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>鍋つかみ</name>
+		<keyword>鍋つかみ,なべつかみ</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
 		<on>な</on>
-		<name>生ごみ </name>
-		<keyword>生ごみ ,なまごみ</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken>できる限り家庭で処理する　　水切りを十分にする</zyouken>
+		<name>生ごみ</name>
+		<keyword>生ごみ,なまごみ</keyword>
+		<kubun>可燃ごみ</kubun>
+		<zyouken>できる限り家庭で処理する水切りを十分にする</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
@@ -3276,14 +3275,14 @@
 		<name>波板（透明なもの）</name>
 		<keyword>波板（透明なもの）,なみいた</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>50ｃｍ以下に切り,袋に入れて出す </zyouken>
+		<zyouken>50ｃｍ以下に切り,袋に入れて出す</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
 		<on>な</on>
 		<name>波板（不透明・グラスファイバー入り）</name>
 		<keyword>波板（不透明・グラスファイバー入り）,なみいた</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
@@ -3305,16 +3304,16 @@
 	<gomi>
 		<gyou>な</gyou>
 		<on>ぬ</on>
-		<name>ぬいぐるみ </name>
-		<keyword>ぬいぐるみ ,ぬいぐるみ </keyword>
+		<name>ぬいぐるみ</name>
+		<keyword>ぬいぐるみ,ぬいぐるみ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
 		<on>ぬ</on>
-		<name>ぬか床 </name>
-		<keyword>ぬか床 ,ぬかどこ</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>ぬか床</name>
+		<keyword>ぬか床,ぬかどこ</keyword>
+		<kubun>可燃ごみ</kubun>
 		<zyouken>水切りをする</zyouken>
 	</gomi>
 	<gomi>
@@ -3327,25 +3326,25 @@
 	<gomi>
 		<gyou>な</gyou>
 		<on>ね</on>
-		<name>ネクタイ </name>
-		<keyword>ネクタイ ,ねくたい </keyword>
-		<kubun>紙・布類 </kubun>
+		<name>ネクタイ</name>
+		<keyword>ネクタイ,ねくたい</keyword>
+		<kubun>紙・布類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
 		<on>ね</on>
 		<name>ネット（台所,洗濯用）</name>
 		<keyword>ネット（台所,洗濯用）,ねっと</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken>金属は取りはずし,「金属類」 </zyouken>
+		<kubun>可燃ごみ</kubun>
+		<zyouken>金属は取りはずし,「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
 		<on>ね</on>
-		<name>寝袋 </name>
-		<keyword>寝袋 ,ねぶくろ</keyword>
+		<name>寝袋</name>
+		<keyword>寝袋,ねぶくろ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>ごみ袋に入れる </zyouken>
+		<zyouken>ごみ袋に入れる</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
@@ -3359,8 +3358,8 @@
 		<on>の</on>
 		<name>農薬びん（家庭菜園用）</name>
 		<keyword>農薬びん（家庭菜園用）,のうやくびん,のうやく</keyword>
-		<kubun>埋立ごみ </kubun>
-		<zyouken>中身を使い切り,水洗いする </zyouken>
+		<kubun>埋立ごみ</kubun>
+		<zyouken>中身を使い切り,水洗いする</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>な</gyou>
@@ -3375,8 +3374,8 @@
 		<on>は</on>
 		<name>バール</name>
 		<keyword>バール,ばーる</keyword>
-		<kubun>粗大ごみ </kubun>
-		<zyouken>工具類は 10 個までで 1 点　　集積場収集不可</zyouken>
+		<kubun>粗大ごみ</kubun>
+		<zyouken>工具類は10個までで1点集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3390,7 +3389,7 @@
 		<on>は</on>
 		<name>パイプ類【金属製】</name>
 		<keyword>パイプ類【金属製】,ぱいぷ</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 		<zyouken>50ｃｍ以上のものは「戸別収集」か「直接搬入」</zyouken>
 	</gomi>
 	<gomi>
@@ -3420,16 +3419,16 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>はかり（計量器） </name>
-		<keyword>はかり（計量器） ,はかり</keyword>
-		<kubun>金属類 </kubun>
+		<name>はかり（計量器）</name>
+		<keyword>はかり（計量器）,はかり</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>バケツ【金属製】 </name>
-		<keyword>バケツ【金属製】 ,ばけつ</keyword>
-		<kubun>金属類 </kubun>
+		<name>バケツ【金属製】</name>
+		<keyword>バケツ【金属製】,ばけつ</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3441,9 +3440,9 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>はさみ類 </name>
-		<keyword>はさみ類 ,はさみ</keyword>
-		<kubun>金属類 </kubun>
+		<name>はさみ類</name>
+		<keyword>はさみ類,はさみ</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する</zyouken>
 	</gomi>
 	<gomi>
@@ -3451,7 +3450,7 @@
 		<on>は</on>
 		<name>箸（はし）【木・プラスチック製】</name>
 		<keyword>箸（はし）【木・プラスチック製】,はし</keyword>
-		<kubun>可燃ごみ </kubun>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3464,38 +3463,38 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>バスポンプ </name>
-		<keyword>バスポンプ ,ばすぽんぷ </keyword>
-		<kubun>金属類 </kubun>
+		<name>バスポンプ</name>
+		<keyword>バスポンプ,ばすぽんぷ</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
 		<name>パソコン（本体・ディスプレイ）</name>
 		<keyword>パソコン（本体・ディスプレイ）,ぱそこん,でぃすぷれい</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 		<zyouken>パソコンリサイクル法対象</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>バッグ </name>
-		<keyword>バッグ ,ばっぐ </keyword>
+		<name>バッグ</name>
+		<keyword>バッグ,ばっぐ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>バッジ </name>
-		<keyword>バッジ ,ばっじ </keyword>
-		<kubun>金属類 </kubun>
+		<name>バッジ</name>
+		<keyword>バッジ,ばっじ</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
 		<name>バッテリー</name>
 		<keyword>バッテリー,ばってりー</keyword>
-		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可） </zyouken>
+		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3516,7 +3515,7 @@
 		<on>は</on>
 		<name>発泡スチロール（緩衝材）</name>
 		<keyword>発泡スチロール（緩衝材）,はっぽうすちろーる</keyword>
-		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ </kubun>
+		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ</kubun>
 		<zyouken>20ｃｍ以内に割る</zyouken>
 	</gomi>
 	<gomi>
@@ -3529,10 +3528,10 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>花火 </name>
-		<keyword>花火 ,はなび</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken>必ず使い切ること　未使用の場合は収集不可</zyouken>
+		<name>花火</name>
+		<keyword>花火,はなび</keyword>
+		<kubun>可燃ごみ</kubun>
+		<zyouken>必ず使い切ること未使用の場合は収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3544,47 +3543,46 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>刃物 </name>
-		<keyword>刃物 ,はもの</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する </zyouken>
+		<name>刃物</name>
+		<keyword>刃物,はもの</keyword>
+		<kubun>金属類</kubun>
+		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
 		<name>バラン（弁当用仕切り）</name>
 		<keyword>バラン（弁当用仕切り）,ばらん,しきり</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken> </zyouken>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>針 </name>
-		<keyword>針 ,はり</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する </zyouken>
+		<name>針</name>
+		<keyword>針,はり</keyword>
+		<kubun>金属類</kubun>
+		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>針金 </name>
-		<keyword>針金 ,はりがね,はりかね</keyword>
-		<kubun>金属類 </kubun>
+		<name>針金</name>
+		<keyword>針金,はりがね,はりかね</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>バリカン </name>
-		<keyword>バリカン ,ばりかん </keyword>
-		<kubun>金属類 </kubun>
+		<name>バリカン</name>
+		<keyword>バリカン,ばりかん</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
 		<name>ハロゲンヒーター</name>
 		<keyword>ハロゲンヒーター,はろげんひーたー</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3603,31 +3601,31 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>ハンカチ </name>
-		<keyword>ハンカチ ,はんかち </keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>ハンカチ</name>
+		<keyword>ハンカチ,はんかち</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
 		<name>ハンドマッサージャー</name>
 		<keyword>ハンドマッサージャー,はんどまっさーじゃー</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
-		<name>ハンドミキサー </name>
-		<keyword>ハンドミキサー ,はんどみきさー </keyword>
-		<kubun>金属類 </kubun>
+		<name>ハンドミキサー</name>
+		<keyword>ハンドミキサー,はんどみきさー</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>は</on>
 		<name>ハンマー</name>
 		<keyword>ハンマー,はんまー</keyword>
-		<kubun>粗大ごみ </kubun>
-		<zyouken>10 個までで 1 点　集積場収集不可</zyouken>
+		<kubun>粗大ごみ</kubun>
+		<zyouken>10個までで1点集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3639,25 +3637,25 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>ひ</on>
-		<name>ビーチパラソル </name>
-		<keyword>ビーチパラソル ,びーちぱらそる </keyword>
-		<kubun>金属類 </kubun>
+		<name>ビーチパラソル</name>
+		<keyword>ビーチパラソル,びーちぱらそる</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ひ</on>
-		<name>ビーチマット </name>
-		<keyword>ビーチマット ,びーちまっと </keyword>
+		<name>ビーチマット</name>
+		<keyword>ビーチマット,びーちまっと</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>折りたたんで,ひもでしばる </zyouken>
+		<zyouken>折りたたんで,ひもでしばる</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ひ</on>
-		<name>ＰＰバンド </name>
-		<keyword>ＰＰバンド ,ぴーぴーばんど,ばんど</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken>50ｃｍ以下に切る </zyouken>
+		<name>ＰＰバンド</name>
+		<keyword>ＰＰバンド,ぴーぴーばんど,ばんど</keyword>
+		<kubun>可燃ごみ</kubun>
+		<zyouken>50ｃｍ以下に切る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3671,7 +3669,7 @@
 		<on>ひ</on>
 		<name>ひげそり（Ｔ字,電動・替刃）</name>
 		<keyword>ひげそり（Ｔ字,電動・替刃）,ひげそり</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する</zyouken>
 	</gomi>
 	<gomi>
@@ -3679,67 +3677,67 @@
 		<on>ひ</on>
 		<name>ビデオカメラ,ビデオデッキ</name>
 		<keyword>ビデオカメラ,ビデオデッキ,びでおかめら,びでおでっき</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ひ</on>
-		<name>ビデオテープ </name>
-		<keyword>ビデオテープ ,びでおてーぷ </keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>ビデオテープ</name>
+		<keyword>ビデオテープ,びでおてーぷ</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ひ</on>
 		<name>ビニールコート紙</name>
 		<keyword>ビニールコート紙,びにーるこーとかみ</keyword>
-		<kubun>可燃ごみ </kubun>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ひ</on>
-		<name>ビニールパイプ </name>
-		<keyword>ビニールパイプ ,びにーるぱいぷ </keyword>
+		<name>ビニールパイプ</name>
+		<keyword>ビニールパイプ,びにーるぱいぷ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>50ｃｍ以下に切り,袋に入れて出す </zyouken>
+		<zyouken>50ｃｍ以下に切り,袋に入れて出す</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ひ</on>
-		<name>ビニールプール </name>
-		<keyword>ビニールプール ,びにーるぷーる </keyword>
+		<name>ビニールプール</name>
+		<keyword>ビニールプール,びにーるぷーる</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>50ｃｍ以下に切り,袋に入れて出す </zyouken>
+		<zyouken>50ｃｍ以下に切り,袋に入れて出す</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ひ</on>
-		<name>火鉢【金属製】 </name>
-		<keyword>火鉢【金属製】 ,ひばち</keyword>
-		<kubun>金属類 </kubun>
+		<name>火鉢【金属製】</name>
+		<keyword>火鉢【金属製】,ひばち</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ひ</on>
-		<name>火鉢【陶磁器製】 </name>
-		<keyword>火鉢【陶磁器製】 ,ひばち</keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>火鉢【陶磁器製】</name>
+		<keyword>火鉢【陶磁器製】,ひばち</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ひ</on>
-		<name>ひも </name>
-		<keyword>ひも ,ひも ,ろーぷ</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken>50ｃｍ以下に切る </zyouken>
+		<name>ひも</name>
+		<keyword>ひも,ひも,ろーぷ</keyword>
+		<kubun>可燃ごみ</kubun>
+		<zyouken>50ｃｍ以下に切る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ひ</on>
 		<name>肥料袋（家庭菜園用）</name>
 		<keyword>肥料袋（家庭菜園用）,ひりょうぶくろ</keyword>
-		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ </kubun>
-		<zyouken>中身をきれいにして出す　汚れたものは「硬プラ・革製品類」 </zyouken>
+		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ</kubun>
+		<zyouken>中身をきれいにして出す汚れたものは「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3754,7 +3752,7 @@
 		<name>びん（飲料,食品等）</name>
 		<keyword>びん（飲料,食品等）,びん</keyword>
 		<kubun>びん類</kubun>
-		<zyouken>中を水洗いする　ビールびん,一升びん,牛乳びんは販売店に戻す </zyouken>
+		<zyouken>中を水洗いするビールびん,一升びん,牛乳びんは販売店に戻す</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3767,9 +3765,9 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>ファイル【紙製】 </name>
-		<keyword>ファイル【紙製】 ,ふぁいる</keyword>
-		<kubun>紙・布類 </kubun>
+		<name>ファイル【紙製】</name>
+		<keyword>ファイル【紙製】,ふぁいる</keyword>
+		<kubun>紙・布類</kubun>
 		<zyouken>プラスチックは取りはずし「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
@@ -3778,15 +3776,14 @@
 		<name>ファイル【プラスチック製】</name>
 		<keyword>ファイル【プラスチック製】,ふぁいる</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken> </zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
 		<name>ファンヒーター（ガス）</name>
 		<keyword>ファンヒーター（ガス）,ふぁんひーたー</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>乾電池は必ず取りはずす </zyouken>
+		<kubun>金属類</kubun>
+		<zyouken>乾電池は必ず取りはずす</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3794,29 +3791,29 @@
 		<name>ファンヒーター（灯油）</name>
 		<keyword>ファンヒーター（灯油）,ふぁんひーたー</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>乾電池・灯油は必ず抜く　　集積場収集不可</zyouken>
+		<zyouken>乾電池・灯油は必ず抜く集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>封筒 </name>
-		<keyword>封筒 ,ふうとう</keyword>
-		<kubun>紙・布類 </kubun>
-		<zyouken>ひもでしばる　窓付き封筒のフィルム部分は「可燃ごみ」</zyouken>
+		<name>封筒</name>
+		<keyword>封筒,ふうとう</keyword>
+		<kubun>紙・布類</kubun>
+		<zyouken>ひもでしばる窓付き封筒のフィルム部分は「可燃ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
 		<name>フードプロセッサー</name>
 		<keyword>フードプロセッサー,ふーどぷろせっさー</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>ふえ【金属製】 </name>
-		<keyword>ふえ【金属製】 ,ふえ</keyword>
-		<kubun>金属類 </kubun>
+		<name>ふえ【金属製】</name>
+		<keyword>ふえ【金属製】,ふえ</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3830,8 +3827,8 @@
 		<on>ふ</on>
 		<name>フォーク（食卓用）【金属製】</name>
 		<keyword>フォーク（食卓用）【金属製】,ふぉーく</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する </zyouken>
+		<kubun>金属類</kubun>
+		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3839,22 +3836,21 @@
 		<name>フォーク（食卓用）【木・プラスチック製】</name>
 		<keyword>フォーク（食卓用）【木・プラスチック製】,ふぉーく</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken> </zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
 		<name>ふすま</name>
 		<keyword>ふすま,ふすま</keyword>
-		<kubun>粗大ごみ </kubun>
-		<zyouken>3 枚までで 1 点　集積場収集不可　個人で取りはずしたものに限る</zyouken>
+		<kubun>粗大ごみ</kubun>
+		<zyouken>3枚までで1点集積場収集不可個人で取りはずしたものに限る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>フック・吸盤 </name>
-		<keyword>フック・吸盤 ,ふっく,きゅうばん</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>フック・吸盤</name>
+		<keyword>フック・吸盤,ふっく,きゅうばん</keyword>
+		<kubun>可燃ごみ</kubun>
 		<zyouken>金属が付いているものは「金属類」</zyouken>
 	</gomi>
 	<gomi>
@@ -3862,7 +3858,7 @@
 		<on>ふ</on>
 		<name>ブックエンド【金属製】</name>
 		<keyword>ブックエンド【金属製】,ぶっくえんど</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3883,22 +3879,22 @@
 		<on>ふ</on>
 		<name>フットマッサージ器</name>
 		<keyword>フットマッサージ器,ふっとまっさーじき</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>筆 </name>
-		<keyword>筆 ,ふで</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>筆</name>
+		<keyword>筆,ふで</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>ふとん </name>
-		<keyword>ふとん ,ふとん </keyword>
+		<name>ふとん</name>
+		<keyword>ふとん,ふとん</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>折りたたんで,ひもでしばる　折りたためないものは「戸別収集」か「直接搬入」</zyouken>
+		<zyouken>折りたたんで,ひもでしばる折りたためないものは「戸別収集」か「直接搬入」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3910,38 +3906,38 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>踏み台【金属製】 </name>
-		<keyword>踏み台【金属製】 ,ふみだい</keyword>
-		<kubun>金属類 </kubun>
+		<name>踏み台【金属製】</name>
+		<keyword>踏み台【金属製】,ふみだい</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>踏み台【木・プラスチック製】 </name>
-		<keyword>踏み台【木・プラスチック製】 ,ふみだい</keyword>
+		<name>踏み台【木・プラスチック製】</name>
+		<keyword>踏み台【木・プラスチック製】,ふみだい</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>フライパン </name>
-		<keyword>フライパン ,ふらいぱん </keyword>
-		<kubun>金属類 </kubun>
+		<name>フライパン</name>
+		<keyword>フライパン,ふらいぱん</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
 		<name>ブラインド</name>
 		<keyword>ブラインド,ぶらいんど</keyword>
-		<kubun>粗大ごみ </kubun>
-		<zyouken>3 本までで 1 点　集積場収集不可　個人で取りはずしたものに限る</zyouken>
+		<kubun>粗大ごみ</kubun>
+		<zyouken>3本までで1点集積場収集不可個人で取りはずしたものに限る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
 		<name>ブラシ【毛部分が金属製】</name>
 		<keyword>ブラシ【毛部分が金属製】,ぶらし</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3975,18 +3971,18 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>プリンター </name>
-		<keyword>プリンター ,ぷりんたー </keyword>
-		<kubun>金属類 </kubun>
+		<name>プリンター</name>
+		<keyword>プリンター,ぷりんたー</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>インク,トナーなどは取り除く</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>ブルーシート </name>
-		<keyword>ブルーシート ,ぶるーしーと </keyword>
+		<name>ブルーシート</name>
+		<keyword>ブルーシート,ぶるーしーと</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>50ｃｍ以下に切る　　金属は取りはずし「金属類」</zyouken>
+		<zyouken>50ｃｍ以下に切る金属は取りはずし「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -3998,9 +3994,9 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>ふ</on>
-		<name>風呂敷 </name>
-		<keyword>風呂敷 ,ふろしき</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>風呂敷</name>
+		<keyword>風呂敷,ふろしき</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4019,16 +4015,16 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>へ</on>
-		<name>ヘアーアイロン </name>
-		<keyword>ヘアーアイロン ,へあーあいろん </keyword>
-		<kubun>金属類 </kubun>
+		<name>ヘアーアイロン</name>
+		<keyword>ヘアーアイロン,へあーあいろん</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>へ</on>
 		<name>ヘアーカーラー【金属製】</name>
 		<keyword>ヘアーカーラー【金属製】,へあーかーらー</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4041,23 +4037,22 @@
 		<on>へ</on>
 		<name>ベッド</name>
 		<keyword>ベッド,べっど</keyword>
-		<kubun>粗大ごみ </kubun>
+		<kubun>粗大ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>へ</on>
-		<name>ペットボトル </name>
-		<keyword>ペットボトル ,ぺっとぼとる </keyword>
-		<kubun>ペットボトル </kubun>
-		<zyouken>中を水洗いする　キャップは「容器包装プラスチック」 </zyouken>
+		<name>ペットボトル</name>
+		<keyword>ペットボトル,ぺっとぼとる</keyword>
+		<kubun>ペットボトル</kubun>
+		<zyouken>中を水洗いするキャップは「容器包装プラスチック」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>へ</on>
 		<name>ヘッドホン,ヘッドホンステレオ</name>
 		<keyword>ヘッドホン,ヘッドホンステレオ,へっどほん,へっどほんすてれお</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken> </zyouken>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4065,7 +4060,6 @@
 		<name>ペット用品（シーツ）</name>
 		<keyword>ペット用品（シーツ）,ぺっとようひん,しーつ</keyword>
 		<kubun>可燃ごみ</kubun>
-		<zyouken> </zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4073,15 +4067,15 @@
 		<name>ペット用品（ベッド）【布製】</name>
 		<keyword>ペット用品（ベッド）【布製】,ぺっとようひん,べっど</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>金属は取りはずし「金属類」　50ｃｍ以上のものは「粗大ごみ」 </zyouken>
+		<zyouken>金属は取りはずし「金属類」50ｃｍ以上のものは「粗大ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>へ</on>
 		<name>ペット用品（ペット専用砂）</name>
 		<keyword>ペット用品（ペット専用砂）,ぺっとようひん,すな</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken>汚物は取り除く </zyouken>
+		<kubun>可燃ごみ</kubun>
+		<zyouken>汚物は取り除く</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4097,7 +4091,7 @@
 		<name>ベビーカー</name>
 		<keyword>ベビーカー,べびーかー</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>集積場収集不可 </zyouken>
+		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4105,60 +4099,59 @@
 		<name>ベビーサークル</name>
 		<keyword>ベビーサークル,べびーさーくる</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>集積場収集不可 </zyouken>
+		<zyouken>集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>へ</on>
-		<name>ベルト </name>
-		<keyword>ベルト ,べると </keyword>
+		<name>ベルト</name>
+		<keyword>ベルト,べると</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>金属は取りはずし「金属類」 </zyouken>
+		<zyouken>金属は取りはずし「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>へ</on>
-		<name>ヘルメット </name>
-		<keyword>ヘルメット ,へるめっと </keyword>
-		<kubun>硬プラ・革製品類</kubun>
-		<zyouken> </zyouken>
-	</gomi>
-	<gomi>
-		<gyou>は</gyou>
-		<on>へ</on>
-		<name>便座 </name>
-		<keyword>便座 ,べんざ</keyword>
-		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>汚物は取り除く </zyouken>
-	</gomi>
-	<gomi>
-		<gyou>は</gyou>
-		<on>へ</on>
-		<name>便座（電気式） </name>
-		<keyword>便座（電気式） ,べんざ</keyword>
-		<kubun>金属類 </kubun>
-	</gomi>
-	<gomi>
-		<gyou>は</gyou>
-		<on>へ</on>
-		<name>便座カバー </name>
-		<keyword>便座カバー ,べんざかばー</keyword>
+		<name>ヘルメット</name>
+		<keyword>ヘルメット,へるめっと</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>へ</on>
-		<name>ペンキ </name>
-		<keyword>ペンキ ,ぺんき</keyword>
-		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可） </zyouken>
+		<name>便座</name>
+		<keyword>便座,べんざ</keyword>
+		<kubun>硬プラ・革製品類</kubun>
+		<zyouken>汚物は取り除く</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>へ</on>
-		<name>ペンチ </name>
-		<keyword>ペンチ ,ぺんち</keyword>
-		<kubun>粗大ごみ </kubun>
-		<zyouken>工具類は 10 個までで 1 点　　集積場収集不可</zyouken>
+		<name>便座（電気式）</name>
+		<keyword>便座（電気式）,べんざ</keyword>
+		<kubun>金属類</kubun>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>便座カバー</name>
+		<keyword>便座カバー,べんざかばー</keyword>
+		<kubun>硬プラ・革製品類</kubun>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>ペンキ</name>
+		<keyword>ペンキ,ぺんき</keyword>
+		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可）</zyouken>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>ペンチ</name>
+		<keyword>ペンチ,ぺんち</keyword>
+		<kubun>粗大ごみ</kubun>
+		<zyouken>工具類は10個までで1点集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4181,55 +4174,53 @@
 		<name>ほうき【木・竹・プラスチック製】</name>
 		<keyword>ほうき【木・竹・プラスチック製】,ほうき</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>ごみ袋に入る程度に切る </zyouken>
+		<zyouken>ごみ袋に入る程度に切る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>帽子 </name>
-		<keyword>帽子 ,ぼうし</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken>金属は取りはずし「金属類」 </zyouken>
+		<name>帽子</name>
+		<keyword>帽子,ぼうし</keyword>
+		<kubun>可燃ごみ</kubun>
+		<zyouken>金属は取りはずし「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>防水加工紙 </name>
-		<keyword>防水加工紙 ,ぼうすいかこう</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken> </zyouken>
+		<name>防水加工紙</name>
+		<keyword>防水加工紙,ぼうすいかこう</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>包装紙 </name>
-		<keyword>包装紙 ,ほうそうし</keyword>
-		<kubun>紙・布類 </kubun>
-		<zyouken>ひもでしばる </zyouken>
+		<name>包装紙</name>
+		<keyword>包装紙,ほうそうし</keyword>
+		<kubun>紙・布類</kubun>
+		<zyouken>ひもでしばる</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>包帯 </name>
-		<keyword>包帯 ,ほうたい</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken>50ｃｍ以下に切る </zyouken>
+		<name>包帯</name>
+		<keyword>包帯,ほうたい</keyword>
+		<kubun>可燃ごみ</kubun>
+		<zyouken>50ｃｍ以下に切る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>包丁 </name>
-		<keyword>包丁 ,ほうちょう</keyword>
-		<kubun>金属類 </kubun>
+		<name>包丁</name>
+		<keyword>包丁,ほうちょう</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>缶の容器に入れるか,厚紙等で包み「キケン」と表示する</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>包丁研ぎ機 </name>
-		<keyword>包丁研ぎ機 ,ほうちょうとぎき,とぎき</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken> </zyouken>
+		<name>包丁研ぎ機</name>
+		<keyword>包丁研ぎ機,ほうちょうとぎき,とぎき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4242,10 +4233,9 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>ボウル【金属製】 </name>
-		<keyword>ボウル【金属製】 ,ぼうる</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken> </zyouken>
+		<name>ボウル【金属製】</name>
+		<keyword>ボウル【金属製】,ぼうる</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4253,30 +4243,28 @@
 		<name>ボウル【木・プラスチック製】</name>
 		<keyword>ボウル【木・プラスチック製】,ぼうる</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken> </zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
 		<name>ボウル【ガラス・陶磁器製】</name>
 		<keyword>ボウル【ガラス・陶磁器製】,ぼうる</keyword>
-		<kubun>埋立ごみ </kubun>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>ホース </name>
-		<keyword>ホース ,ほーす </keyword>
+		<name>ホース</name>
+		<keyword>ホース,ほーす</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>50ｃｍ以下に切る </zyouken>
+		<zyouken>50ｃｍ以下に切る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
 		<name>ホースリール【金属製】</name>
 		<keyword>ホースリール【金属製】,ほーすりーる</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken> </zyouken>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4284,7 +4272,7 @@
 		<name>ホースリール【プラスチック製】</name>
 		<keyword>ホースリール【プラスチック製】,ほーすりーる</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>金属は取りはずし「金属類」 </zyouken>
+		<zyouken>金属は取りはずし「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4292,46 +4280,45 @@
 		<name>ポータブルトイレ</name>
 		<keyword>ポータブルトイレ,ぽーたぶるといれ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>汚物は取り除く　50ｃｍ以上のものは「戸別収集」か「直接搬入」</zyouken>
+		<zyouken>汚物は取り除く50ｃｍ以上のものは「戸別収集」か「直接搬入」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
 		<name>ホームベーカリー</name>
 		<keyword>ホームベーカリー,ほーむべーかりー</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken> </zyouken>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>ボール（軟球） </name>
-		<keyword>ボール（軟球） ,ぼーる</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken>空気を抜く </zyouken>
+		<name>ボール（軟球）</name>
+		<keyword>ボール（軟球）,ぼーる</keyword>
+		<kubun>可燃ごみ</kubun>
+		<zyouken>空気を抜く</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>ボール（硬球）　</name>
-		<keyword>ボール（硬球）　,ぼーる</keyword>
+		<name>ボール（硬球）</name>
+		<keyword>ボール（硬球）,ぼーる</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>ボールペン </name>
-		<keyword>ボールペン ,ぼーるぺん </keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken>金属は取りはずし「金属類」 </zyouken>
+		<name>ボールペン</name>
+		<keyword>ボールペン,ぼーるぺん</keyword>
+		<kubun>可燃ごみ</kubun>
+		<zyouken>金属は取りはずし「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>木刀 </name>
-		<keyword>木刀 ,ぼくとう</keyword>
+		<name>木刀</name>
+		<keyword>木刀,ぼくとう</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>50ｃｍ以下に切り,束ねて出す </zyouken>
+		<zyouken>50ｃｍ以下に切り,束ねて出す</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4344,17 +4331,16 @@
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>ポスター </name>
-		<keyword>ポスター ,ぽすたー </keyword>
-		<kubun>紙・布類 </kubun>
+		<name>ポスター</name>
+		<keyword>ポスター,ぽすたー</keyword>
+		<kubun>紙・布類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>ポスト【金属製】 </name>
-		<keyword>ポスト【金属製】 ,ぽすと</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken> </zyouken>
+		<name>ポスト【金属製】</name>
+		<keyword>ポスト【金属製】,ぽすと</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4362,46 +4348,43 @@
 		<name>ポスト【木・プラスチック製】</name>
 		<keyword>ポスト【木・プラスチック製】,ぽすと</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>金属は取りはずし「金属類」 </zyouken>
+		<zyouken>金属は取りはずし「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>ボタン【金属製】 </name>
-		<keyword>ボタン【金属製】 ,ぼたん</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken> </zyouken>
+		<name>ボタン【金属製】</name>
+		<keyword>ボタン【金属製】,ぼたん</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
 		<name>ボタン【木・プラスチック製】</name>
 		<keyword>ボタン【木・プラスチック製】,ぼたん</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken> </zyouken>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
 		<name>ボタン電池</name>
 		<keyword>ボタン電池,ぼたんでんち,でんち</keyword>
-		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可） </zyouken>
+		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>ホッチキス,ホッチキス針 </name>
-		<keyword>ホッチキス,ホッチキス針 ,ほっちきす,ほっちきすはり</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>針は缶に入れ,フタをする </zyouken>
+		<name>ホッチキス,ホッチキス針</name>
+		<keyword>ホッチキス,ホッチキス針,ほっちきす,ほっちきすはり</keyword>
+		<kubun>金属類</kubun>
+		<zyouken>針は缶に入れ,フタをする</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>ポット（魔法瓶） </name>
-		<keyword>ポット（魔法瓶） ,ぽっと</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken> </zyouken>
+		<name>ポット（魔法瓶）</name>
+		<keyword>ポット（魔法瓶）,ぽっと</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4416,8 +4399,7 @@
 		<on>ほ</on>
 		<name>ホットプレート（本体）</name>
 		<keyword>ホットプレート（本体）,ほっとぷれーと</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken> </zyouken>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4432,8 +4414,7 @@
 		<on>ほ</on>
 		<name>ボディーシェーバー</name>
 		<keyword>ボディーシェーバー,ぼでぃーしぇーばー</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken> </zyouken>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4449,29 +4430,26 @@
 		<name>哺乳びん【プラスチック製】</name>
 		<keyword>哺乳びん【プラスチック製】,ほにゅうびん</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken> </zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
 		<name>哺乳びん【ガラス製】</name>
 		<keyword>哺乳びん【ガラス製】,ほにゅうびん</keyword>
-		<kubun>埋立ごみ </kubun>
-		<zyouken> </zyouken>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>ポリタンク </name>
-		<keyword>ポリタンク ,ぽりたんく </keyword>
+		<name>ポリタンク</name>
+		<keyword>ポリタンク,ぽりたんく</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken> </zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>保冷剤 </name>
-		<keyword>保冷剤 ,ほれいざい</keyword>
+		<name>保冷剤</name>
+		<keyword>保冷剤,ほれいざい</keyword>
 		<kubun>可燃ごみ</kubun>
 		<zyouken>硬質プラスチック製は「硬プラ・革</zyouken>
 	</gomi>
@@ -4480,15 +4458,15 @@
 		<on>ほ</on>
 		<name>本（絵本,教科書,辞書,カタログ等）</name>
 		<keyword>本（絵本,教科書,辞書,カタログ等）,ほん,えほん,きょうかしょ,じしょ</keyword>
-		<kubun>紙・布類 </kubun>
+		<kubun>紙・布類</kubun>
 		<zyouken>ひもでしばる</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
 		<on>ほ</on>
-		<name>本立て【金属製】 </name>
-		<keyword>本立て【金属製】 ,ほんたて</keyword>
-		<kubun>金属類 </kubun>
+		<name>本立て【金属製】</name>
+		<keyword>本立て【金属製】,ほんたて</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>は</gyou>
@@ -4514,46 +4492,46 @@
 	<gomi>
 		<gyou>ま</gyou>
 		<on>ま</on>
-		<name>マイク </name>
-		<keyword>マイク ,まいく </keyword>
-		<kubun>金属類 </kubun>
+		<name>マイク</name>
+		<keyword>マイク,まいく</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>乾電池は取りはずし「埋立ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>ま</on>
-		<name>マグネット </name>
-		<keyword>マグネット ,まぐねっと </keyword>
-		<kubun>金属類 </kubun>
+		<name>マグネット</name>
+		<keyword>マグネット,まぐねっと</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>ま</on>
-		<name>まくら </name>
-		<keyword>まくら ,まくら </keyword>
+		<name>まくら</name>
+		<keyword>まくら,まくら</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>ま</on>
-		<name>マジックペン </name>
-		<keyword>マジックペン ,まじっくぺん </keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>マジックペン</name>
+		<keyword>マジックペン,まじっくぺん</keyword>
+		<kubun>可燃ごみ</kubun>
 		<zyouken>金属は取りはずし「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>ま</on>
-		<name>マスク </name>
-		<keyword>マスク ,ますく </keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>マスク</name>
+		<keyword>マスク,ますく</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>ま</on>
-		<name>マッサージ器具 </name>
-		<keyword>マッサージ器具 ,まっさーじ </keyword>
-		<kubun>金属類 </kubun>
+		<name>マッサージ器具</name>
+		<keyword>マッサージ器具,まっさーじ</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
@@ -4566,10 +4544,10 @@
 	<gomi>
 		<gyou>ま</gyou>
 		<on>ま</on>
-		<name>マッチ,マッチ箱 </name>
-		<keyword>マッチ,マッチ箱 ,まっち,まっちばこ</keyword>
-		<kubun>可燃ごみ </kubun>
-		<zyouken>必ず使い切ること　未使用のマッチは収集不可</zyouken>
+		<name>マッチ,マッチ箱</name>
+		<keyword>マッチ,マッチ箱,まっち,まっちばこ</keyword>
+		<kubun>可燃ごみ</kubun>
+		<zyouken>必ず使い切ること未使用のマッチは収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
@@ -4602,25 +4580,25 @@
 	<gomi>
 		<gyou>ま</gyou>
 		<on>ま</on>
-		<name>マフラー </name>
-		<keyword>マフラー ,まふらー </keyword>
-		<kubun>紙・布類 </kubun>
-		<zyouken>破れているものやほつれているものは「硬プラ・革製品類」 </zyouken>
+		<name>マフラー</name>
+		<keyword>マフラー,まふらー</keyword>
+		<kubun>紙・布類</kubun>
+		<zyouken>破れているものやほつれているものは「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>ま</on>
 		<name>マニキュアのびん</name>
 		<keyword>マニキュアのびん,まにきゅあのびん</keyword>
-		<kubun>埋立ごみ </kubun>
-		<zyouken>中身は使い切る </zyouken>
+		<kubun>埋立ごみ</kubun>
+		<zyouken>中身は使い切る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>ま</on>
 		<name>豆炭</name>
 		<keyword>豆炭,まめたん</keyword>
-		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可） </zyouken>
+		<zyouken>販売店または廃棄物処理業者に相談する（持込も不可）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
@@ -4628,35 +4606,35 @@
 		<name>万歩計</name>
 		<keyword>万歩計,ぱんぽけい,ほすうけい</keyword>
 		<kubun>金属類</kubun>
-		<zyouken>電池は取りはずす　（ボタン電池は販売店の回収ボックスへ）</zyouken>
+		<zyouken>電池は取りはずす（ボタン電池は販売店の回収ボックスへ）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>み</on>
-		<name>み（箕） </name>
-		<keyword>み（箕） ,み</keyword>
+		<name>み（箕）</name>
+		<keyword>み（箕）,み</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>み</on>
-		<name>ミキサー </name>
-		<keyword>ミキサー ,みきさー </keyword>
-		<kubun>金属類 </kubun>
+		<name>ミキサー</name>
+		<keyword>ミキサー,みきさー</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>み</on>
-		<name>ミシン </name>
-		<keyword>ミシン ,みしん </keyword>
-		<kubun>金属類 </kubun>
+		<name>ミシン</name>
+		<keyword>ミシン,みしん</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>み</on>
-		<name>水さし【金属製】 </name>
-		<keyword>水さし【金属製】 ,みずさし</keyword>
-		<kubun>金属類 </kubun>
+		<name>水さし【金属製】</name>
+		<keyword>水さし【金属製】,みずさし</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
@@ -4670,7 +4648,7 @@
 		<on>み</on>
 		<name>水さし【ガラス・陶磁器製】</name>
 		<keyword>水さし【ガラス・陶磁器製】,みずさし</keyword>
-		<kubun>埋立ごみ </kubun>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
@@ -4682,9 +4660,9 @@
 	<gomi>
 		<gyou>ま</gyou>
 		<on>む</on>
-		<name>虫かご【金属製】 </name>
-		<keyword>虫かご【金属製】 ,むしかご</keyword>
-		<kubun>金属類 </kubun>
+		<name>虫かご【金属製】</name>
+		<keyword>虫かご【金属製】,むしかご</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
@@ -4696,9 +4674,9 @@
 	<gomi>
 		<gyou>ま</gyou>
 		<on>む</on>
-		<name>蒸し器【金属製】 </name>
-		<keyword>蒸し器【金属製】 ,むしき</keyword>
-		<kubun>金属類 </kubun>
+		<name>蒸し器【金属製】</name>
+		<keyword>蒸し器【金属製】,むしき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
@@ -4712,14 +4690,14 @@
 		<on>む</on>
 		<name>蒸し器【ガラス・陶磁器製】</name>
 		<keyword>蒸し器【ガラス・陶磁器製】,むしき</keyword>
-		<kubun>埋立ごみ </kubun>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>む</on>
-		<name>虫めがね </name>
-		<keyword>虫めがね ,むしめがね,るーぺ</keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>虫めがね</name>
+		<keyword>虫めがね,むしめがね,るーぺ</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
@@ -4732,16 +4710,16 @@
 	<gomi>
 		<gyou>ま</gyou>
 		<on>め</on>
-		<name>めがね </name>
-		<keyword>めがね ,めがね </keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>めがね</name>
+		<keyword>めがね,めがね</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>め</on>
 		<name>メジャー【金属製】</name>
 		<keyword>メジャー【金属製】,めじゃー</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
@@ -4761,18 +4739,17 @@
 	<gomi>
 		<gyou>ま</gyou>
 		<on>も</on>
-		<name>毛布 </name>
-		<keyword>毛布 ,もうふ</keyword>
-		<kubun>紙・布類 </kubun>
-		<zyouken>折りたたんでひもでしばる　汚れたものは「硬プラ・革製品類」</zyouken>
+		<name>毛布</name>
+		<keyword>毛布,もうふ</keyword>
+		<kubun>紙・布類</kubun>
+		<zyouken>折りたたんでひもでしばる汚れたものは「硬プラ・革製品類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>も</on>
-		<name>もちつき機 </name>
-		<keyword>もちつき機 ,もちつきき</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken> </zyouken>
+		<name>もちつき機</name>
+		<keyword>もちつき機,もちつきき</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
@@ -4780,15 +4757,15 @@
 		<name>モップ（柄付モップ）</name>
 		<keyword>モップ（柄付モップ）,もっぷ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>ごみ袋に入る程度に切る　 </zyouken>
+		<zyouken>ごみ袋に入る程度に切る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
 		<on>も</on>
-		<name>物置 </name>
-		<keyword>物置 ,ものおき</keyword>
+		<name>物置</name>
+		<keyword>物置,ものおき</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>長さ 2ｍ以上のものは、収集業者に相談する。（持込可） </zyouken>
+		<zyouken>長さ2ｍ以上のものは、収集業者に相談する。（持込可）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ま</gyou>
@@ -4796,7 +4773,7 @@
 		<name>物干し竿・物干し台</name>
 		<keyword>物干し竿・物干し台,ものほしざお,ものほしだい</keyword>
 		<kubun>粗大ごみ</kubun>
-		<zyouken>竿は 3 本までで 1 点、台は 1 対で 1 点　集積場収集不可</zyouken>
+		<zyouken>竿は3本までで1点、台は1対で1点集積場収集不可</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>や</gyou>
@@ -4853,7 +4830,7 @@
 		<on>ら</on>
 		<name>ライター（使い捨て含）</name>
 		<keyword>ライター（使い捨て含）,らいたー</keyword>
-		<kubun>埋立ごみ </kubun>
+		<kubun>埋立ごみ</kubun>
 		<zyouken>必ず使い切ること</zyouken>
 	</gomi>
 	<gomi>
@@ -4861,7 +4838,7 @@
 		<on>ら</on>
 		<name>ラケット【金属製】</name>
 		<keyword>ラケット【金属製】,らけっと</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
@@ -4873,30 +4850,30 @@
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ら</on>
-		<name>ラジオ </name>
-		<keyword>ラジオ ,らじお </keyword>
-		<kubun>金属類 </kubun>
+		<name>ラジオ</name>
+		<keyword>ラジオ,らじお</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ら</on>
-		<name>ラジカセ </name>
-		<keyword>ラジカセ ,らじかせ </keyword>
-		<kubun>金属類 </kubun>
+		<name>ラジカセ</name>
+		<keyword>ラジカセ,らじかせ</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ら</on>
-		<name>ラジコン </name>
-		<keyword>ラジコン ,らじこん </keyword>
-		<kubun>金属類 </kubun>
+		<name>ラジコン</name>
+		<keyword>ラジコン,らじこん</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ら</on>
-		<name>ラック【金属製】 </name>
-		<keyword>ラック【金属製】 ,らっく</keyword>
-		<kubun>金属類 </kubun>
+		<name>ラック【金属製】</name>
+		<keyword>ラック【金属製】,らっく</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
@@ -4910,36 +4887,36 @@
 		<on>ら</on>
 		<name>ラップの紙箱・芯</name>
 		<keyword>ラップの紙箱・芯,らっぷのかみばこ,しん</keyword>
-		<kubun>紙・布類 </kubun>
-		<zyouken>ひもでしばる　金属刃は取りはずし「金属類」</zyouken>
+		<kubun>紙・布類</kubun>
+		<zyouken>ひもでしばる金属刃は取りはずし「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ら</on>
-		<name>ラベルライター </name>
-		<keyword>ラベルライター ,らべるらいたー </keyword>
-		<kubun>金属類 </kubun>
+		<name>ラベルライター</name>
+		<keyword>ラベルライター,らべるらいたー</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ら</on>
 		<name>ラミネーター（パウチ）</name>
 		<keyword>ラミネーター（パウチ）,らみねーたー,ぱうち</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ら</on>
-		<name>ランタン </name>
-		<keyword>ランタン ,らんたん </keyword>
-		<kubun>埋立ごみ </kubun>
+		<name>ランタン</name>
+		<keyword>ランタン,らんたん</keyword>
+		<kubun>埋立ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ら</on>
 		<name>ランチジャー【金属製】</name>
 		<keyword>ランチジャー【金属製】,らんちじゃー</keyword>
-		<kubun>金属類 </kubun>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
@@ -4960,16 +4937,16 @@
 	<gomi>
 		<gyou>ら</gyou>
 		<on>り</on>
-		<name>リストバンド </name>
-		<keyword>リストバンド ,りすとばんど </keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>リストバンド</name>
+		<keyword>リストバンド,りすとばんど</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>り</on>
-		<name>リモコン </name>
-		<keyword>リモコン ,りもこん </keyword>
-		<kubun>金属類 </kubun>
+		<name>リモコン</name>
+		<keyword>リモコン,りもこん</keyword>
+		<kubun>金属類</kubun>
 		<zyouken>乾電池は取りはずし「埋立ごみ」</zyouken>
 	</gomi>
 	<gomi>
@@ -4985,13 +4962,13 @@
 		<on>れ</on>
 		<name>冷蔵庫・冷凍庫</name>
 		<keyword>冷蔵庫・冷凍庫,れいぞうこ,れいとうこ</keyword>
-		<zyouken>家電リサイクル法対象（持込も不可） </zyouken>
+		<zyouken>家電リサイクル法対象（持込も不可）</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>れ</on>
-		<name>レコード盤 </name>
-		<keyword>レコード盤 ,れこーどばん,れこーど</keyword>
+		<name>レコード盤</name>
+		<keyword>レコード盤,れこーどばん,れこーど</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 	</gomi>
 	<gomi>
@@ -4999,24 +4976,24 @@
 		<on>れ</on>
 		<name>レコード盤の針・プレーヤー</name>
 		<keyword>レコード盤の針・プレーヤー,れこーどばんのはり・ぷれーやー</keyword>
-		<kubun>金属類 </kubun>
-		<zyouken>針は缶に入れる </zyouken>
+		<kubun>金属類</kubun>
+		<zyouken>針は缶に入れる</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>れ</on>
-		<name>レジ袋 </name>
-		<keyword>レジ袋 ,れじぶくろ</keyword>
-		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ </kubun>
-		<zyouken>汚れたものは「可燃ごみ」 </zyouken>
+		<name>レジ袋</name>
+		<keyword>レジ袋,れじぶくろ</keyword>
+		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ</kubun>
+		<zyouken>汚れたものは「可燃ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>れ</on>
-		<name>レジャーシート </name>
-		<keyword>レジャーシート ,れじゃーしーと </keyword>
+		<name>レジャーシート</name>
+		<keyword>レジャーシート,れじゃーしーと</keyword>
 		<kubun>硬プラ・革製品類</kubun>
-		<zyouken>50ｃｍ以下に切る　　金属は取りはずし「金属類」</zyouken>
+		<zyouken>50ｃｍ以下に切る金属は取りはずし「金属類」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
@@ -5024,7 +5001,7 @@
 		<name>レトルトパック容器</name>
 		<keyword>レトルトパック容器,れとるとぱっくようき</keyword>
 		<kubun>容器包装ﾌﾟﾗｽﾁｯｸ</kubun>
-		<zyouken>中をすすいできれいにして出す　汚れたものは「可燃ごみ」 </zyouken>
+		<zyouken>中をすすいできれいにして出す汚れたものは「可燃ごみ」</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
@@ -5050,9 +5027,9 @@
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ろ</on>
-		<name>ろう紙 </name>
-		<keyword>ろう紙 ,ろうかみ</keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>ろう紙</name>
+		<keyword>ろう紙,ろうかみ</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
@@ -5065,23 +5042,23 @@
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ろ</on>
-		<name>ローソク </name>
-		<keyword>ローソク ,ろーそく </keyword>
-		<kubun>可燃ごみ </kubun>
+		<name>ローソク</name>
+		<keyword>ローソク,ろーそく</keyword>
+		<kubun>可燃ごみ</kubun>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ろ</on>
-		<name>ロープ </name>
-		<keyword>ロープ ,ろーぷ </keyword>
+		<name>ロープ</name>
+		<keyword>ロープ,ろーぷ</keyword>
 		<kubun>硬プラ・革製品類</kubun>
 		<zyouken>50ｃｍ以下に切る</zyouken>
 	</gomi>
 	<gomi>
 		<gyou>ら</gyou>
 		<on>ろ</on>
-		<name>ローボード </name>
-		<keyword>ローボード ,ろーぼーど</keyword>
+		<name>ローボード</name>
+		<keyword>ローボード,ろーぼーど</keyword>
 		<kubun>粗大ごみ</kubun>
 	</gomi>
 	<gomi>
@@ -5110,9 +5087,9 @@
 	<gomi>
 		<gyou>わ</gyou>
 		<on>わ</on>
-		<name>ワープロ </name>
-		<keyword>ワープロ ,わーぷろ </keyword>
-		<kubun>金属類 </kubun>
+		<name>ワープロ</name>
+		<keyword>ワープロ,わーぷろ</keyword>
+		<kubun>金属類</kubun>
 	</gomi>
 	<gomi>
 		<gyou>わ</gyou>
