@@ -1735,6 +1735,15 @@
 	<gomi>
 		<gyou>さ</gyou>
 		<on>さ</on>
+		<name>座椅子</name>
+		<keyword>座椅子,ざいす</keyword>
+		<kubun>金属類</kubun>
+　　　　	<zyouken>袋に入らない場合は個別回収</zyouken>
+	</gomi>
+
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
 		<name>サイドボード</name>
 		<keyword>サイドボード,さいどぼーど</keyword>
 		<kubun>粗大ごみ</kubun>
